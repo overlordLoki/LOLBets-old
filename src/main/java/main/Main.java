@@ -28,14 +28,16 @@ public class Main {
 	public void updateMatchs() {
 		
 		List<String> list = new ArrayList<String>();
-		String LPL = "https://gol.gg/tournament/tournament-matchlist/LPL%20Spring%202022/";
+		String LPL = "https://gol.gg/tournament/tournament-matchlist/LPL%20Spring%20Playoffs%202022/";
 		list.add(LPL);
-		String LEC = "https://gol.gg/tournament/tournament-matchlist/LEC%20Spring%202022/";
+		String LEC = "https://gol.gg/tournament/tournament-matchlist/LEC%20Spring%20Playoffs%202022/";
 		list.add(LEC);
-		String LCK = "https://gol.gg/tournament/tournament-matchlist/LCK%20Spring%202022/";
+		String LCK = "https://gol.gg/tournament/tournament-matchlist/LCK%20Spring%20Playoffs%202022/";
 		list.add(LCK);
-		String LCS = "https://gol.gg/tournament/tournament-matchlist/LCS%20Spring%202022/";
+		String LCS = "https://gol.gg/tournament/tournament-matchlist/LCS%20Spring%20Playoffs%202022/";
 		list.add(LCS);
+		String msi = "https://gol.gg/tournament/tournament-ranking/MSI%202022/";
+		list.add(msi);
 		for(String reg : list) {
 			Miner miner = new Miner(this);
 			String s = miner.ScrapTournament(reg);
@@ -112,15 +114,19 @@ public class Main {
 		}catch(IOException e) {e.printStackTrace();}
 	}
 	
-	public void makeDataFromText() {
-		File file = new File("Teams.txt");
+	public void makeDataFromText(String filename) {
+		File file = new File(filename);
 		try {
 			Scanner sc = new Scanner(file);
 			while(sc.hasNext()){
 				String r = sc.nextLine(); //name of region
-				Region reg = new Region(r);
-				regions.put(r,reg);
+				Region reg = regions.get(r);
+				if(reg == null) {
+					reg = new Region(r);
+					regions.put(r, reg);
+				}
 				Tournament tourn = new Tournament(sc.nextLine()); //region + spring tournament
+				Tournaments.put(tourn.tournamentID, tourn);
 				reg.Tournaments.put(tourn.tournamentID,tourn);
 				int num = Integer.parseInt(sc.nextLine()); //num of Teams
 				for(int i =0; i < num; i++) {
@@ -161,13 +167,24 @@ public class Main {
 		}
 		try {
 			FileWriter writer = new FileWriter("games.csv");
-			writer.append("TournamentID,gameID,bTeam,rTeam,\n");
+			writer.append("Tournament,Match,gameID,week,bTeam,rTeam,date,link,Time,bKills,rKills,toalKills,bTowers,rTowers,"+
+			"totalTowers,bDragons,rDragons,totalDragons,bBarons,rBarons,totalBarons,bGold,rGold,totalGold,winner\n");
 			for(Game g : games) {
-				//writer.append(g.gameID+","+g.team1.name+","+g.team2.name+","+g.team1Score+","+g.team2Score+","+g.tournamentID+","+g.matchID+","+g.regionID+"\n");
+				writer.append(g.season.tournamentID+","+g.match.name+","+g.id+","+g.week+","+g.bTeam.name+","+g.rTeam.name+","+
+				g.date+","+g.link+","+g.time+","+g.bKills+","+g.rKills+","+(g.bKills+g.rKills)+","+
+				g.bTowers+","+g.rTowers+","+(g.bTowers+g.rTowers)+","+g.bDragons+","+g.rDragons+","+
+				(g.bDragons+g.rDragons)+","+g.bBarons+","+g.rBarons+","+(g.bBarons+g.rBarons)+","+g.bGold+","+g.rGold+","+(g.bGold+g.rGold)+","+g.winningTeam().name+"\n");
 			}
 			writer.flush();
 			writer.close();
 		} catch (IOException e) {e.printStackTrace();}
+	}
+
+	//add more tournaments
+	public void addTournament(String tournName ) {
+		Tournament t = new Tournament(tournName);
+		Tournaments.put(t.tournamentID,t);
+		saveData();
 	}
 	
 }

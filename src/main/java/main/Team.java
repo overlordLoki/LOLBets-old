@@ -8,6 +8,7 @@ public class Team implements Serializable {
 	public Region reg;
 	public String name;
 	public String shortName;
+	public int year;
 	public List<Game> games = new ArrayList<>();
 	
 	public Team(String Name, Region Reg) {

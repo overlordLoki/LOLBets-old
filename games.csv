@@ -1,0 +1,730 @@
+Tournament,Match,gameID,week,bTeam,rTeam,date,link,Time,bKills,rKills,toalKills,bTowers,rTowers,totalTowers,bDragons,rDragons,totalDragons,bBarons,rBarons,totalBarons,bGold,rGold,totalGold,winner
+LEC Spring 2022,G2 Esports vs Rogue,1,4,G2 Esports,Rogue,2022-02-05,/game/stats/36767/page-game/,1496,4,18,22,2,9,11,0,2,2,0,1,1,0.0,0.0,0.0,Rogue
+LEC Spring 2022,MAD Lions vs Team BDS,3,4,MAD Lions,Team BDS,2022-02-05,/game/stats/36766/page-game/,2720,24,19,43,11,6,17,3,4,7,2,1,3,0.0,0.0,0.0,Team BDS
+LEC Spring 2022,Excel Esports vs Fnatic,5,4,Excel Esports,Fnatic,2022-02-05,/game/stats/36765/page-game/,1733,18,9,27,11,4,15,2,3,5,1,0,1,0.0,0.0,0.0,Fnatic
+LEC Spring 2022,Misfits Gaming vs SK Gaming,7,4,Misfits Gaming,SK Gaming,2022-02-05,/game/stats/36764/page-game/,1805,23,11,34,11,2,13,2,1,3,2,0,2,0.0,0.0,0.0,SK Gaming
+LEC Spring 2022,Astralis vs Team Vitality,9,4,Astralis,Team Vitality,2022-02-05,/game/stats/36763/page-game/,2163,25,16,41,5,7,12,4,1,5,0,1,1,0.0,0.0,0.0,Team Vitality
+LEC Spring 2022,MAD Lions vs Fnatic,11,4,MAD Lions,Fnatic,2022-02-04,/game/stats/36762/page-game/,1958,8,15,23,4,9,13,1,4,5,0,1,1,0.0,0.0,0.0,Fnatic
+LEC Spring 2022,G2 Esports vs Team BDS,13,4,G2 Esports,Team BDS,2022-02-04,/game/stats/36761/page-game/,1986,21,4,25,10,4,14,3,1,4,2,0,2,0.0,0.0,0.0,Team BDS
+LEC Spring 2022,Rogue vs Excel Esports,15,4,Rogue,Excel Esports,2022-02-04,/game/stats/36760/page-game/,1365,14,5,19,9,3,12,1,2,3,1,0,1,0.0,0.0,0.0,Excel Esports
+LEC Spring 2022,Astralis vs SK Gaming,17,4,Astralis,SK Gaming,2022-02-04,/game/stats/36759/page-game/,1851,9,17,26,3,8,11,0,4,4,0,1,1,0.0,0.0,0.0,SK Gaming
+LEC Spring 2022,Team Vitality vs Misfits Gaming,19,4,Team Vitality,Misfits Gaming,2022-02-04,/game/stats/36758/page-game/,1713,18,9,27,9,4,13,1,3,4,1,0,1,0.0,0.0,0.0,Misfits Gaming
+LEC Spring 2022,Fnatic vs G2 Esports,21,3,Fnatic,G2 Esports,2022-01-29,/game/stats/36412/page-game/,2260,4,13,17,4,9,13,3,2,5,1,1,2,0.0,0.0,0.0,G2 Esports
+LEC Spring 2022,Rogue vs Team Vitality,23,3,Rogue,Team Vitality,2022-01-29,/game/stats/36411/page-game/,2164,12,8,20,11,7,18,2,3,5,2,0,2,0.0,0.0,0.0,Team Vitality
+LEC Spring 2022,MAD Lions vs Misfits Gaming,25,3,MAD Lions,Misfits Gaming,2022-01-29,/game/stats/36410/page-game/,1690,5,21,26,2,9,11,0,4,4,0,1,1,0.0,0.0,0.0,Misfits Gaming
+LEC Spring 2022,Astralis vs Excel Esports,27,3,Astralis,Excel Esports,2022-01-29,/game/stats/36409/page-game/,2137,5,11,16,3,11,14,2,3,5,1,1,2,0.0,0.0,0.0,Excel Esports
+LEC Spring 2022,Team BDS vs SK Gaming,29,3,Team BDS,SK Gaming,2022-01-29,/game/stats/36408/page-game/,1752,8,2,10,11,2,13,4,0,4,1,0,1,0.0,0.0,0.0,SK Gaming
+LEC Spring 2022,G2 Esports vs Misfits Gaming,31,3,G2 Esports,Misfits Gaming,2022-01-28,/game/stats/36407/page-game/,2132,27,16,43,10,10,20,4,1,5,1,1,2,0.0,0.0,0.0,Misfits Gaming
+LEC Spring 2022,Rogue vs Fnatic,33,3,Rogue,Fnatic,2022-01-28,/game/stats/36406/page-game/,1750,20,4,24,9,3,12,3,2,5,1,0,1,0.0,0.0,0.0,Fnatic
+LEC Spring 2022,Team Vitality vs SK Gaming,35,3,Team Vitality,SK Gaming,2022-01-28,/game/stats/36405/page-game/,1655,17,10,27,11,1,12,2,2,4,1,0,1,0.0,0.0,0.0,SK Gaming
+LEC Spring 2022,Excel Esports vs MAD Lions,37,3,Excel Esports,MAD Lions,2022-01-28,/game/stats/36404/page-game/,2380,8,16,24,3,8,11,1,4,5,1,1,2,0.0,0.0,0.0,MAD Lions
+LEC Spring 2022,Team BDS vs Astralis,39,3,Team BDS,Astralis,2022-01-28,/game/stats/36403/page-game/,1888,17,7,24,8,1,9,4,0,4,1,0,1,0.0,0.0,0.0,Astralis
+LEC Spring 2022,G2 Esports vs Team Vitality,41,2,G2 Esports,Team Vitality,2022-01-22,/game/stats/36226/page-game/,1793,6,15,21,2,9,11,0,4,4,0,1,1,0.0,0.0,0.0,Team Vitality
+LEC Spring 2022,Fnatic vs Misfits Gaming,43,2,Fnatic,Misfits Gaming,2022-01-22,/game/stats/36225/page-game/,1420,17,8,25,7,2,9,3,0,3,1,0,1,0.0,0.0,0.0,Misfits Gaming
+LEC Spring 2022,Team BDS vs Rogue,45,2,Team BDS,Rogue,2022-01-22,/game/stats/36224/page-game/,1700,6,20,26,2,9,11,0,4,4,0,1,1,0.0,0.0,0.0,Rogue
+LEC Spring 2022,MAD Lions vs Astralis,47,2,MAD Lions,Astralis,2022-01-22,/game/stats/36223/page-game/,1926,18,14,32,8,5,13,3,1,4,0,1,1,0.0,0.0,0.0,Astralis
+LEC Spring 2022,SK Gaming vs Excel Esports,49,2,SK Gaming,Excel Esports,2022-01-22,/game/stats/36222/page-game/,2248,11,18,29,5,9,14,3,3,6,0,2,2,0.0,0.0,0.0,Excel Esports
+LEC Spring 2022,MAD Lions vs Rogue,51,2,MAD Lions,Rogue,2022-01-21,/game/stats/36221/page-game/,1989,10,26,36,1,10,11,0,4,4,0,2,2,0.0,0.0,0.0,Rogue
+LEC Spring 2022,Team BDS vs Team Vitality,53,2,Team BDS,Team Vitality,2022-01-21,/game/stats/36220/page-game/,1665,8,18,26,0,10,10,0,4,4,0,1,1,0.0,0.0,0.0,Team Vitality
+LEC Spring 2022,G2 Esports vs SK Gaming,55,2,G2 Esports,SK Gaming,2022-01-21,/game/stats/36219/page-game/,1930,15,5,20,9,2,11,4,1,5,1,0,1,0.0,0.0,0.0,SK Gaming
+LEC Spring 2022,Astralis vs Fnatic,57,2,Astralis,Fnatic,2022-01-21,/game/stats/36218/page-game/,2499,6,17,23,4,9,13,2,4,6,0,2,2,0.0,0.0,0.0,Fnatic
+LEC Spring 2022,Misfits Gaming vs Excel Esports,59,2,Misfits Gaming,Excel Esports,2022-01-21,/game/stats/36217/page-game/,1902,12,6,18,11,2,13,2,3,5,2,0,2,0.0,0.0,0.0,Excel Esports
+LEC Spring 2022,MAD Lions vs G2 Esports,61,1,MAD Lions,G2 Esports,2022-01-16,/game/stats/35932/page-game/,1602,12,4,16,11,2,13,2,1,3,1,0,1,0.0,0.0,0.0,G2 Esports
+LEC Spring 2022,SK Gaming vs Fnatic,63,1,SK Gaming,Fnatic,2022-01-16,/game/stats/35931/page-game/,2009,8,13,21,3,9,12,2,2,4,0,1,1,0.0,0.0,0.0,Fnatic
+LEC Spring 2022,Rogue vs Astralis,65,1,Rogue,Astralis,2022-01-16,/game/stats/35930/page-game/,1476,15,7,22,10,1,11,2,1,3,1,0,1,0.0,0.0,0.0,Astralis
+LEC Spring 2022,Team BDS vs Misfits Gaming,67,1,Team BDS,Misfits Gaming,2022-01-16,/game/stats/35929/page-game/,1791,9,15,24,0,10,10,2,3,5,0,1,1,0.0,0.0,0.0,Misfits Gaming
+LEC Spring 2022,Excel Esports vs Team Vitality,69,1,Excel Esports,Team Vitality,2022-01-16,/game/stats/35928/page-game/,2264,13,8,21,10,3,13,4,2,6,1,0,1,0.0,0.0,0.0,Team Vitality
+LEC Spring 2022,Team Vitality vs Fnatic,71,1,Team Vitality,Fnatic,2022-01-15,/game/stats/35927/page-game/,2021,12,16,28,4,8,12,1,4,5,0,1,1,0.0,0.0,0.0,Fnatic
+LEC Spring 2022,G2 Esports vs Astralis,73,1,G2 Esports,Astralis,2022-01-15,/game/stats/35926/page-game/,2077,14,13,27,11,1,12,4,1,5,2,0,2,0.0,0.0,0.0,Astralis
+LEC Spring 2022,SK Gaming vs MAD Lions,75,1,SK Gaming,MAD Lions,2022-01-15,/game/stats/35925/page-game/,3293,29,24,53,9,8,17,5,2,7,2,2,4,0.0,0.0,0.0,MAD Lions
+LEC Spring 2022,Rogue vs Misfits Gaming,77,1,Rogue,Misfits Gaming,2022-01-15,/game/stats/35924/page-game/,2050,16,8,24,9,3,12,2,2,4,1,1,2,0.0,0.0,0.0,Misfits Gaming
+LEC Spring 2022,Excel Esports vs Team BDS,79,1,Excel Esports,Team BDS,2022-01-15,/game/stats/35923/page-game/,2248,9,13,22,7,8,15,3,2,5,0,2,2,0.0,0.0,0.0,Team BDS
+LEC Spring 2022,Fnatic vs Team BDS,81,1,Fnatic,Team BDS,2022-01-14,/game/stats/35922/page-game/,2085,15,12,27,9,4,13,3,2,5,1,1,2,0.0,0.0,0.0,Team BDS
+LEC Spring 2022,Astralis vs Misfits Gaming,83,1,Astralis,Misfits Gaming,2022-01-14,/game/stats/35921/page-game/,2463,13,14,27,3,10,13,3,3,6,1,2,3,0.0,0.0,0.0,Misfits Gaming
+LEC Spring 2022,Excel Esports vs G2 Esports,85,1,Excel Esports,G2 Esports,2022-01-14,/game/stats/35920/page-game/,2512,17,27,44,6,8,14,1,5,6,1,1,2,0.0,0.0,0.0,G2 Esports
+LEC Spring 2022,Rogue vs SK Gaming,87,1,Rogue,SK Gaming,2022-01-14,/game/stats/35919/page-game/,1655,15,8,23,9,1,10,2,2,4,1,0,1,0.0,0.0,0.0,SK Gaming
+LEC Spring 2022,MAD Lions vs Team Vitality,89,1,MAD Lions,Team Vitality,2022-01-14,/game/stats/35918/page-game/,1926,20,9,29,11,1,12,4,1,5,2,0,2,0.0,0.0,0.0,Team Vitality
+LEC Spring 2022,Fnatic vs Team Vitality,91,5,Fnatic,Team Vitality,2022-02-12,/game/stats/36969/page-game/,1659,19,9,28,10,2,12,3,1,4,1,0,1,0.0,0.0,0.0,Team Vitality
+LEC Spring 2022,Astralis vs G2 Esports,93,5,Astralis,G2 Esports,2022-02-12,/game/stats/36968/page-game/,1853,12,20,32,2,8,10,0,3,3,0,2,2,0.0,0.0,0.0,G2 Esports
+LEC Spring 2022,MAD Lions vs SK Gaming,95,5,MAD Lions,SK Gaming,2022-02-12,/game/stats/36967/page-game/,2320,7,13,20,5,7,12,3,3,6,0,1,1,0.0,0.0,0.0,SK Gaming
+LEC Spring 2022,Rogue vs Misfits Gaming,97,5,Rogue,Misfits Gaming,2022-02-12,/game/stats/36966/page-game/,2152,12,19,31,2,10,12,2,4,6,0,2,2,0.0,0.0,0.0,Misfits Gaming
+LEC Spring 2022,Team BDS vs Excel Esports,99,5,Team BDS,Excel Esports,2022-02-12,/game/stats/36965/page-game/,2343,17,17,34,5,11,16,1,4,5,0,1,1,0.0,0.0,0.0,Excel Esports
+LEC Spring 2022,MAD Lions vs G2 Esports,101,5,MAD Lions,G2 Esports,2022-02-11,/game/stats/36964/page-game/,1620,4,14,18,3,9,12,2,2,4,0,1,1,0.0,0.0,0.0,G2 Esports
+LEC Spring 2022,Fnatic vs SK Gaming,103,5,Fnatic,SK Gaming,2022-02-11,/game/stats/36963/page-game/,1499,15,4,19,9,0,9,2,1,3,1,0,1,0.0,0.0,0.0,SK Gaming
+LEC Spring 2022,Misfits Gaming vs Team BDS,105,5,Misfits Gaming,Team BDS,2022-02-11,/game/stats/36962/page-game/,2126,20,15,35,11,3,14,2,2,4,2,0,2,0.0,0.0,0.0,Team BDS
+LEC Spring 2022,Excel Esports vs Team Vitality,107,5,Excel Esports,Team Vitality,2022-02-11,/game/stats/36961/page-game/,2258,24,11,35,11,3,14,3,2,5,2,0,2,0.0,0.0,0.0,Team Vitality
+LEC Spring 2022,Astralis vs Rogue,109,5,Astralis,Rogue,2022-02-11,/game/stats/36960/page-game/,2143,25,11,36,10,3,13,4,0,4,2,0,2,0.0,0.0,0.0,Rogue
+LEC Spring 2022,Team BDS vs Team Vitality,111,6,Team BDS,Team Vitality,2022-02-18,/game/stats/37300/page-game/,2402,13,14,27,6,10,16,4,2,6,0,2,2,0.0,0.0,0.0,Team Vitality
+LEC Spring 2022,Fnatic vs Astralis,113,6,Fnatic,Astralis,2022-02-18,/game/stats/37299/page-game/,2126,13,18,31,6,8,14,1,4,5,0,2,2,0.0,0.0,0.0,Astralis
+LEC Spring 2022,SK Gaming vs G2 Esports,115,6,SK Gaming,G2 Esports,2022-02-18,/game/stats/37298/page-game/,2434,18,5,23,8,7,15,5,2,7,1,1,2,0.0,0.0,0.0,G2 Esports
+LEC Spring 2022,Misfits Gaming vs Excel Esports,117,6,Misfits Gaming,Excel Esports,2022-02-18,/game/stats/37297/page-game/,2142,26,17,43,11,2,13,3,2,5,2,0,2,0.0,0.0,0.0,Excel Esports
+LEC Spring 2022,SK Gaming vs Team BDS,119,6,SK Gaming,Team BDS,2022-02-19,/game/stats/37302/page-game/,2384,10,11,21,7,4,11,1,4,5,1,0,1,0.0,0.0,0.0,Team BDS
+LEC Spring 2022,Rogue vs MAD Lions,121,6,Rogue,MAD Lions,2022-02-18,/game/stats/37301/page-game/,1697,18,10,28,11,3,14,2,2,4,1,0,1,0.0,0.0,0.0,MAD Lions
+LEC Spring 2022,Team Vitality vs Rogue,123,6,Team Vitality,Rogue,2022-02-19,/game/stats/37305/page-game/,1874,7,16,23,6,7,13,0,4,4,0,1,1,0.0,0.0,0.0,Rogue
+LEC Spring 2022,MAD Lions vs Misfits Gaming,125,6,MAD Lions,Misfits Gaming,2022-02-19,/game/stats/37304/page-game/,2144,10,7,17,3,11,14,1,4,5,0,1,1,0.0,0.0,0.0,Misfits Gaming
+LEC Spring 2022,Excel Esports vs Astralis,127,6,Excel Esports,Astralis,2022-02-19,/game/stats/37303/page-game/,2388,17,7,24,10,5,15,4,2,6,1,0,1,0.0,0.0,0.0,Astralis
+LEC Spring 2022,Fnatic vs G2 Esports,129,6,Fnatic,G2 Esports,2022-02-19,/game/stats/37306/page-game/,1896,16,5,21,9,2,11,4,1,5,1,0,1,0.0,0.0,0.0,G2 Esports
+LEC Spring 2022,G2 Esports vs Misfits Gaming,131,7,G2 Esports,Misfits Gaming,2022-02-25,/game/stats/37947/page-game/,2332,22,30,52,11,10,21,4,1,5,1,2,3,0.0,0.0,0.0,Misfits Gaming
+LEC Spring 2022,Fnatic vs Rogue,133,7,Fnatic,Rogue,2022-02-25,/game/stats/37946/page-game/,1808,15,4,19,9,2,11,4,1,5,0,0,0,0.0,0.0,0.0,Rogue
+LEC Spring 2022,SK Gaming vs Team Vitality,135,7,SK Gaming,Team Vitality,2022-02-25,/game/stats/37945/page-game/,2051,13,12,25,3,10,13,0,4,4,0,1,1,0.0,0.0,0.0,Team Vitality
+LEC Spring 2022,Astralis vs Team BDS,137,7,Astralis,Team BDS,2022-02-25,/game/stats/37944/page-game/,2060,18,19,37,4,9,13,2,2,4,1,1,2,0.0,0.0,0.0,Team BDS
+LEC Spring 2022,Excel Esports vs MAD Lions,139,7,Excel Esports,MAD Lions,2022-02-25,/game/stats/37943/page-game/,1551,17,5,22,10,3,13,1,2,3,1,0,1,0.0,0.0,0.0,MAD Lions
+LEC Spring 2022,Rogue vs G2 Esports,141,8,Rogue,G2 Esports,2022-03-06,/game/stats/38068/page-game/,1612,23,7,30,11,1,12,3,0,3,1,0,1,0.0,0.0,0.0,G2 Esports
+LEC Spring 2022,MAD Lions vs Team BDS,143,8,MAD Lions,Team BDS,2022-03-06,/game/stats/38067/page-game/,2185,31,21,52,10,3,13,4,2,6,2,0,2,0.0,0.0,0.0,Team BDS
+LEC Spring 2022,Fnatic vs Excel Esports,145,8,Fnatic,Excel Esports,2022-03-06,/game/stats/38066/page-game/,1791,24,15,39,9,2,11,3,0,3,0,0,0,0.0,0.0,0.0,Excel Esports
+LEC Spring 2022,Team Vitality vs Astralis,147,8,Team Vitality,Astralis,2022-03-06,/game/stats/38065/page-game/,1477,24,5,29,10,2,12,2,1,3,1,0,1,0.0,0.0,0.0,Astralis
+LEC Spring 2022,SK Gaming vs Misfits Gaming,149,8,SK Gaming,Misfits Gaming,2022-03-06,/game/stats/38064/page-game/,1707,30,13,43,11,3,14,4,0,4,1,0,1,0.0,0.0,0.0,Misfits Gaming
+LEC Spring 2022,Team Vitality vs G2 Esports,151,8,Team Vitality,G2 Esports,2022-03-05,/game/stats/38063/page-game/,2268,4,15,19,2,11,13,1,4,5,0,1,1,0.0,0.0,0.0,G2 Esports
+LEC Spring 2022,Rogue vs Team BDS,153,8,Rogue,Team BDS,2022-03-05,/game/stats/38062/page-game/,1976,17,7,24,11,1,12,1,3,4,2,0,2,0.0,0.0,0.0,Team BDS
+LEC Spring 2022,Misfits Gaming vs Fnatic,155,8,Misfits Gaming,Fnatic,2022-03-05,/game/stats/38061/page-game/,2201,17,25,42,7,7,14,3,1,4,1,2,3,0.0,0.0,0.0,Fnatic
+LEC Spring 2022,Astralis vs MAD Lions,157,8,Astralis,MAD Lions,2022-03-05,/game/stats/38060/page-game/,1961,6,15,21,3,10,13,1,4,5,0,1,1,0.0,0.0,0.0,MAD Lions
+LEC Spring 2022,Excel Esports vs SK Gaming,159,8,Excel Esports,SK Gaming,2022-03-05,/game/stats/38059/page-game/,1701,14,2,16,9,1,10,4,1,5,1,0,1,0.0,0.0,0.0,SK Gaming
+LEC Spring 2022,Team BDS vs Fnatic,161,8,Team BDS,Fnatic,2022-03-04,/game/stats/38058/page-game/,1490,7,20,27,1,9,10,0,3,3,0,1,1,0.0,0.0,0.0,Fnatic
+LEC Spring 2022,Team Vitality vs MAD Lions,163,8,Team Vitality,MAD Lions,2022-03-04,/game/stats/38057/page-game/,2013,8,25,33,3,10,13,1,3,4,0,2,2,0.0,0.0,0.0,MAD Lions
+LEC Spring 2022,G2 Esports vs Excel Esports,165,8,G2 Esports,Excel Esports,2022-03-04,/game/stats/38056/page-game/,1601,18,6,24,9,2,11,1,2,3,1,0,1,0.0,0.0,0.0,Excel Esports
+LEC Spring 2022,Astralis vs Misfits Gaming,167,8,Astralis,Misfits Gaming,2022-03-04,/game/stats/38055/page-game/,2500,15,23,38,4,11,15,2,4,6,1,2,3,0.0,0.0,0.0,Misfits Gaming
+LEC Spring 2022,SK Gaming vs Rogue,169,8,SK Gaming,Rogue,2022-03-04,/game/stats/38054/page-game/,2368,18,7,25,9,4,13,4,2,6,2,0,2,0.0,0.0,0.0,Rogue
+LEC Spring 2022,Fnatic vs MAD Lions,171,7,Fnatic,MAD Lions,2022-02-26,/game/stats/37952/page-game/,1952,13,7,20,9,4,13,3,2,5,1,0,1,0.0,0.0,0.0,MAD Lions
+LEC Spring 2022,G2 Esports vs Team BDS,173,7,G2 Esports,Team BDS,2022-02-26,/game/stats/37951/page-game/,1859,11,4,15,9,1,10,3,2,5,0,1,1,0.0,0.0,0.0,Team BDS
+LEC Spring 2022,Excel Esports vs Rogue,175,7,Excel Esports,Rogue,2022-02-26,/game/stats/37950/page-game/,1775,6,16,22,2,9,11,0,4,4,0,2,2,0.0,0.0,0.0,Rogue
+LEC Spring 2022,SK Gaming vs Astralis,177,7,SK Gaming,Astralis,2022-02-26,/game/stats/37949/page-game/,1628,2,10,12,2,11,13,2,2,4,0,1,1,0.0,0.0,0.0,Astralis
+LEC Spring 2022,Misfits Gaming vs Team Vitality,179,7,Misfits Gaming,Team Vitality,2022-02-26,/game/stats/37948/page-game/,2285,5,19,24,2,11,13,3,3,6,0,1,1,0.0,0.0,0.0,Team Vitality
+LCK Spring 2022,DRX vs KT Rolster,1,4,DRX,KT Rolster,2022-02-09,/game/stats/36781/page-game/,1781,13,11,24,8,2,10,1,3,4,1,0,1,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,DRX vs KT Rolster,2,4,KT Rolster,DRX,2022-02-09,/game/stats/36782/page-game/,2778,16,13,29,8,7,15,3,4,7,1,2,3,0.0,0.0,0.0,DRX
+LCK Spring 2022,DRX vs KT Rolster,3,4,DRX,KT Rolster,2022-02-09,/game/stats/36783/page-game/,1967,10,2,12,9,3,12,2,3,5,0,0,0,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,T1 vs Hanwha Life eSports,7,4,T1,Hanwha Life eSports,2022-02-09,/game/stats/36778/page-game/,1953,8,17,25,2,9,11,1,3,4,0,1,1,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,T1 vs Hanwha Life eSports,8,4,T1,Hanwha Life eSports,2022-02-09,/game/stats/36779/page-game/,1505,10,7,17,9,2,11,3,1,4,1,0,1,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,T1 vs Hanwha Life eSports,9,4,Hanwha Life eSports,T1,2022-02-09,/game/stats/36780/page-game/,2816,11,15,26,6,10,16,4,2,6,1,2,3,0.0,0.0,0.0,T1
+LCK Spring 2022,Hanwha Life eSports vs Liiv SANDBOX,13,3,Hanwha Life eSports,Liiv SANDBOX,2022-01-30,/game/stats/36507/page-game/,2136,15,7,22,11,2,13,4,1,5,2,0,2,0.0,0.0,0.0,Liiv SANDBOX
+LCK Spring 2022,Hanwha Life eSports vs Liiv SANDBOX,14,3,Liiv SANDBOX,Hanwha Life eSports,2022-01-30,/game/stats/36508/page-game/,1508,9,17,26,1,7,8,0,3,3,0,1,1,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,DWG KIA vs T1,17,3,DWG KIA,T1,2022-01-30,/game/stats/36504/page-game/,3326,14,9,23,10,7,17,6,3,9,3,1,4,0.0,0.0,0.0,T1
+LCK Spring 2022,DWG KIA vs T1,18,3,T1,DWG KIA,2022-01-30,/game/stats/36505/page-game/,1804,19,5,24,11,2,13,4,0,4,2,0,2,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,DWG KIA vs T1,19,3,DWG KIA,T1,2022-01-30,/game/stats/36506/page-game/,2030,15,20,35,8,8,16,2,3,5,1,1,2,0.0,0.0,0.0,T1
+LCK Spring 2022,Nongshim RedForce vs DRX,23,3,Nongshim RedForce,DRX,2022-01-29,/game/stats/36501/page-game/,2253,12,19,31,2,11,13,1,4,5,0,2,2,0.0,0.0,0.0,DRX
+LCK Spring 2022,Nongshim RedForce vs DRX,24,3,Nongshim RedForce,DRX,2022-01-29,/game/stats/36502/page-game/,2827,16,18,34,5,11,16,3,4,7,1,2,3,0.0,0.0,0.0,DRX
+LCK Spring 2022,KT Rolster vs Gen.G eSports,27,3,KT Rolster,Gen.G eSports,2022-01-29,/game/stats/36498/page-game/,2562,17,6,23,8,6,14,4,2,6,3,0,3,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,KT Rolster vs Gen.G eSports,28,3,Gen.G eSports,KT Rolster,2022-01-29,/game/stats/36499/page-game/,2259,7,14,21,2,9,11,0,6,6,0,1,1,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,Fredit BRION vs Kwangdong Freecs,31,3,Fredit BRION,Kwangdong Freecs,2022-01-28,/game/stats/36489/page-game/,2453,13,7,20,5,9,14,1,5,6,0,1,1,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,Fredit BRION vs Kwangdong Freecs,32,3,Kwangdong Freecs,Fredit BRION,2022-01-28,/game/stats/36490/page-game/,2604,4,10,14,7,5,12,2,5,7,1,0,1,0.0,0.0,0.0,Fredit BRION
+LCK Spring 2022,Hanwha Life eSports vs DWG KIA,35,3,Hanwha Life eSports,DWG KIA,2022-01-28,/game/stats/36486/page-game/,1832,5,9,14,2,10,12,0,5,5,0,2,2,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,Hanwha Life eSports vs DWG KIA,36,3,Hanwha Life eSports,DWG KIA,2022-01-28,/game/stats/36487/page-game/,1573,6,14,20,0,9,9,0,3,3,0,1,1,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,T1 vs Nongshim RedForce,39,3,T1,Nongshim RedForce,2022-01-27,/game/stats/36483/page-game/,2813,5,7,12,11,8,19,5,3,8,3,0,3,0.0,0.0,0.0,Nongshim RedForce
+LCK Spring 2022,T1 vs Nongshim RedForce,40,3,Nongshim RedForce,T1,2022-01-27,/game/stats/36484/page-game/,1837,19,5,24,10,5,15,4,0,4,0,1,1,0.0,0.0,0.0,T1
+LCK Spring 2022,T1 vs Nongshim RedForce,41,3,T1,Nongshim RedForce,2022-01-27,/game/stats/36485/page-game/,2385,19,8,27,10,3,13,4,2,6,1,1,2,0.0,0.0,0.0,Nongshim RedForce
+LCK Spring 2022,KT Rolster vs Liiv SANDBOX,45,3,KT Rolster,Liiv SANDBOX,2022-01-27,/game/stats/36480/page-game/,1720,12,3,15,10,1,11,3,1,4,1,0,1,0.0,0.0,0.0,Liiv SANDBOX
+LCK Spring 2022,KT Rolster vs Liiv SANDBOX,46,3,Liiv SANDBOX,KT Rolster,2022-01-27,/game/stats/36481/page-game/,2339,15,11,26,7,7,14,3,3,6,1,1,2,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,KT Rolster vs Liiv SANDBOX,47,3,KT Rolster,Liiv SANDBOX,2022-01-27,/game/stats/36482/page-game/,1924,11,16,27,3,9,12,3,2,5,0,2,2,0.0,0.0,0.0,Liiv SANDBOX
+LCK Spring 2022,DRX vs Fredit BRION,51,3,DRX,Fredit BRION,2022-01-26,/game/stats/36477/page-game/,2361,14,6,20,9,4,13,2,3,5,1,0,1,0.0,0.0,0.0,Fredit BRION
+LCK Spring 2022,DRX vs Fredit BRION,52,3,Fredit BRION,DRX,2022-01-26,/game/stats/36478/page-game/,1594,4,14,18,0,11,11,0,4,4,0,1,1,0.0,0.0,0.0,DRX
+LCK Spring 2022,Gen.G eSports vs Kwangdong Freecs,55,3,Gen.G eSports,Kwangdong Freecs,2022-01-26,/game/stats/36474/page-game/,1669,13,3,16,10,3,13,3,1,4,1,0,1,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,Gen.G eSports vs Kwangdong Freecs,56,3,Kwangdong Freecs,Gen.G eSports,2022-01-26,/game/stats/36475/page-game/,1928,3,10,13,1,7,8,1,4,5,0,1,1,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,Kwangdong Freecs vs DRX,59,2,Kwangdong Freecs,DRX,2022-01-23,/game/stats/36163/page-game/,2473,6,8,14,5,8,13,4,0,4,0,0,0,0.0,0.0,0.0,DRX
+LCK Spring 2022,Kwangdong Freecs vs DRX,60,2,Kwangdong Freecs,DRX,2022-01-23,/game/stats/36164/page-game/,2886,8,16,24,7,7,14,2,5,7,1,1,2,0.0,0.0,0.0,DRX
+LCK Spring 2022,Liiv SANDBOX vs T1,63,2,Liiv SANDBOX,T1,2022-01-23,/game/stats/36160/page-game/,1943,12,19,31,2,9,11,0,4,4,0,1,1,0.0,0.0,0.0,T1
+LCK Spring 2022,Liiv SANDBOX vs T1,64,2,Liiv SANDBOX,T1,2022-01-23,/game/stats/36161/page-game/,1509,2,10,12,2,7,9,2,2,4,0,0,0,0.0,0.0,0.0,T1
+LCK Spring 2022,Gen.G eSports vs Hanwha Life eSports,67,2,Gen.G eSports,Hanwha Life eSports,2022-01-22,/game/stats/36157/page-game/,1921,5,14,19,2,9,11,2,2,4,0,1,1,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,Gen.G eSports vs Hanwha Life eSports,68,2,Gen.G eSports,Hanwha Life eSports,2022-01-22,/game/stats/36158/page-game/,2314,17,11,28,10,0,10,4,2,6,2,0,2,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,Gen.G eSports vs Hanwha Life eSports,69,2,Hanwha Life eSports,Gen.G eSports,2022-01-22,/game/stats/36159/page-game/,1704,5,18,23,2,9,11,0,4,4,0,1,1,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,DWG KIA vs Fredit BRION,73,2,DWG KIA,Fredit BRION,2022-01-22,/game/stats/36154/page-game/,1593,11,6,17,7,3,10,1,3,4,0,1,1,0.0,0.0,0.0,Fredit BRION
+LCK Spring 2022,DWG KIA vs Fredit BRION,74,2,Fredit BRION,DWG KIA,2022-01-22,/game/stats/36155/page-game/,2122,7,6,13,2,9,11,3,3,6,1,1,2,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,Nongshim RedForce vs KT Rolster,77,2,Nongshim RedForce,KT Rolster,2022-01-21,/game/stats/36151/page-game/,1994,4,13,17,4,9,13,1,4,5,0,2,2,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,Nongshim RedForce vs KT Rolster,78,2,Nongshim RedForce,KT Rolster,2022-01-21,/game/stats/36152/page-game/,1659,16,6,22,8,1,9,3,1,4,1,0,1,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,Nongshim RedForce vs KT Rolster,79,2,KT Rolster,Nongshim RedForce,2022-01-21,/game/stats/36153/page-game/,1746,8,21,29,2,11,13,0,4,4,0,1,1,0.0,0.0,0.0,Nongshim RedForce
+LCK Spring 2022,Liiv SANDBOX vs Kwangdong Freecs,83,2,Liiv SANDBOX,Kwangdong Freecs,2022-01-21,/game/stats/36148/page-game/,2059,2,12,14,1,9,10,3,2,5,0,1,1,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,Liiv SANDBOX vs Kwangdong Freecs,84,2,Liiv SANDBOX,Kwangdong Freecs,2022-01-21,/game/stats/36149/page-game/,1855,5,19,24,3,11,14,2,2,4,0,1,1,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,Fredit BRION vs Gen.G eSports,87,2,Fredit BRION,Gen.G eSports,2022-01-20,/game/stats/36145/page-game/,2282,5,16,21,4,10,14,3,3,6,0,2,2,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,Fredit BRION vs Gen.G eSports,88,2,Fredit BRION,Gen.G eSports,2022-01-20,/game/stats/36146/page-game/,2047,8,14,22,3,9,12,1,4,5,0,1,1,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,DRX vs T1,91,2,DRX,T1,2022-01-20,/game/stats/36142/page-game/,1675,9,19,28,1,7,8,0,4,4,0,1,1,0.0,0.0,0.0,T1
+LCK Spring 2022,DRX vs T1,92,2,T1,DRX,2022-01-20,/game/stats/36143/page-game/,1722,14,8,22,9,1,10,2,2,4,1,0,1,0.0,0.0,0.0,DRX
+LCK Spring 2022,KT Rolster vs Hanwha Life eSports,95,2,KT Rolster,Hanwha Life eSports,2022-01-19,/game/stats/36139/page-game/,2310,12,7,19,7,3,10,3,2,5,0,1,1,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,KT Rolster vs Hanwha Life eSports,96,2,Hanwha Life eSports,KT Rolster,2022-01-19,/game/stats/36140/page-game/,2248,10,16,26,1,9,10,2,3,5,0,1,1,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,Nongshim RedForce vs DWG KIA,99,2,Nongshim RedForce,DWG KIA,2022-01-19,/game/stats/36136/page-game/,2336,18,6,24,9,3,12,3,3,6,1,0,1,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,Nongshim RedForce vs DWG KIA,100,2,DWG KIA,Nongshim RedForce,2022-01-19,/game/stats/36137/page-game/,2340,13,13,26,8,3,11,4,3,7,1,0,1,0.0,0.0,0.0,Nongshim RedForce
+LCK Spring 2022,Nongshim RedForce vs DWG KIA,101,2,Nongshim RedForce,DWG KIA,2022-01-19,/game/stats/36138/page-game/,2348,11,4,15,10,3,13,5,1,6,1,0,1,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,DWG KIA vs Gen.G eSports,105,1,DWG KIA,Gen.G eSports,2022-01-16,/game/stats/35844/page-game/,2166,15,17,32,8,4,12,5,1,6,1,0,1,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,DWG KIA vs Gen.G eSports,106,1,Gen.G eSports,DWG KIA,2022-01-16,/game/stats/35845/page-game/,2887,20,24,44,10,5,15,2,5,7,2,1,3,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,DWG KIA vs Gen.G eSports,107,1,DWG KIA,Gen.G eSports,2022-01-16,/game/stats/35846/page-game/,2112,17,15,32,5,9,14,2,3,5,1,1,2,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,Fredit BRION vs Hanwha Life eSports,111,1,Fredit BRION,Hanwha Life eSports,2022-01-16,/game/stats/35841/page-game/,2027,7,3,10,9,3,12,5,0,5,1,0,1,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,Fredit BRION vs Hanwha Life eSports,112,1,Hanwha Life eSports,Fredit BRION,2022-01-16,/game/stats/35842/page-game/,2314,13,6,19,7,8,15,3,2,5,0,2,2,0.0,0.0,0.0,Fredit BRION
+LCK Spring 2022,Fredit BRION vs Hanwha Life eSports,113,1,Fredit BRION,Hanwha Life eSports,2022-01-16,/game/stats/35843/page-game/,2112,15,2,17,11,2,13,3,2,5,1,0,1,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,Kwangdong Freecs vs KT Rolster,117,1,Kwangdong Freecs,KT Rolster,2022-01-15,/game/stats/35838/page-game/,2135,7,20,27,3,11,14,1,4,5,0,2,2,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,Kwangdong Freecs vs KT Rolster,118,1,Kwangdong Freecs,KT Rolster,2022-01-15,/game/stats/35839/page-game/,1934,4,13,17,3,9,12,0,5,5,0,1,1,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,Nongshim RedForce vs Liiv SANDBOX,121,1,Nongshim RedForce,Liiv SANDBOX,2022-01-15,/game/stats/35835/page-game/,1838,13,6,19,11,2,13,2,3,5,1,0,1,0.0,0.0,0.0,Liiv SANDBOX
+LCK Spring 2022,Nongshim RedForce vs Liiv SANDBOX,122,1,Nongshim RedForce,Liiv SANDBOX,2022-01-15,/game/stats/35836/page-game/,1568,13,5,18,11,2,13,3,0,3,1,0,1,0.0,0.0,0.0,Liiv SANDBOX
+LCK Spring 2022,Fredit BRION vs T1,125,1,Fredit BRION,T1,2022-01-14,/game/stats/35832/page-game/,2568,17,11,28,8,5,13,4,1,5,1,1,2,0.0,0.0,0.0,T1
+LCK Spring 2022,Fredit BRION vs T1,126,1,T1,Fredit BRION,2022-01-14,/game/stats/35833/page-game/,2755,21,13,34,10,8,18,5,3,8,1,2,3,0.0,0.0,0.0,Fredit BRION
+LCK Spring 2022,Fredit BRION vs T1,127,1,Fredit BRION,T1,2022-01-14,/game/stats/35834/page-game/,2487,4,18,22,2,11,13,1,5,6,0,2,2,0.0,0.0,0.0,T1
+LCK Spring 2022,DRX vs Gen.G eSports,131,1,DRX,Gen.G eSports,2022-01-14,/game/stats/35829/page-game/,1777,2,17,19,4,9,13,0,3,3,0,1,1,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,DRX vs Gen.G eSports,132,1,Gen.G eSports,DRX,2022-01-14,/game/stats/35830/page-game/,1556,23,9,32,11,0,11,2,1,3,1,0,1,0.0,0.0,0.0,DRX
+LCK Spring 2022,KT Rolster vs DWG KIA,135,1,KT Rolster,DWG KIA,2022-01-13,/game/stats/35826/page-game/,2568,6,10,16,4,10,14,1,5,6,1,1,2,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,KT Rolster vs DWG KIA,136,1,KT Rolster,DWG KIA,2022-01-13,/game/stats/35827/page-game/,1450,11,17,28,2,9,11,2,1,3,0,1,1,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,Nongshim RedForce vs Hanwha Life eSports,139,1,Nongshim RedForce,Hanwha Life eSports,2022-01-13,/game/stats/35823/page-game/,2152,19,8,27,11,1,12,4,0,4,1,0,1,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,Nongshim RedForce vs Hanwha Life eSports,140,1,Hanwha Life eSports,Nongshim RedForce,2022-01-13,/game/stats/35824/page-game/,1957,15,3,18,11,4,15,3,1,4,2,0,2,0.0,0.0,0.0,Nongshim RedForce
+LCK Spring 2022,Nongshim RedForce vs Hanwha Life eSports,141,1,Nongshim RedForce,Hanwha Life eSports,2022-01-13,/game/stats/35825/page-game/,2166,9,25,34,3,11,14,2,3,5,0,1,1,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,T1 vs Kwangdong Freecs,145,1,T1,Kwangdong Freecs,2022-01-12,/game/stats/35820/page-game/,2232,12,7,19,7,2,9,5,0,5,1,0,1,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,T1 vs Kwangdong Freecs,146,1,Kwangdong Freecs,T1,2022-01-12,/game/stats/35821/page-game/,1505,4,18,22,2,10,12,0,3,3,0,1,1,0.0,0.0,0.0,T1
+LCK Spring 2022,DRX vs Liiv SANDBOX,149,1,DRX,Liiv SANDBOX,2022-01-12,/game/stats/35817/page-game/,2195,5,14,19,8,9,17,1,4,5,0,2,2,0.0,0.0,0.0,Liiv SANDBOX
+LCK Spring 2022,DRX vs Liiv SANDBOX,150,1,DRX,Liiv SANDBOX,2022-01-12,/game/stats/35818/page-game/,2069,7,15,22,3,9,12,0,4,4,1,1,2,0.0,0.0,0.0,Liiv SANDBOX
+LCK Spring 2022,Fredit BRION vs KT Rolster,153,4,Fredit BRION,KT Rolster,2022-02-13,/game/stats/36805/page-game/,2673,16,18,34,6,9,15,4,3,7,2,1,3,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,Fredit BRION vs KT Rolster,154,4,Fredit BRION,KT Rolster,2022-02-13,/game/stats/36806/page-game/,2402,16,3,19,9,2,11,4,3,7,2,0,2,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,Fredit BRION vs KT Rolster,155,4,KT Rolster,Fredit BRION,2022-02-13,/game/stats/36807/page-game/,2246,21,12,33,7,3,10,4,1,5,0,1,1,0.0,0.0,0.0,Fredit BRION
+LCK Spring 2022,Kwangdong Freecs vs Nongshim RedForce,159,4,Kwangdong Freecs,Nongshim RedForce,2022-02-13,/game/stats/36802/page-game/,1779,15,2,17,11,2,13,3,1,4,1,0,1,0.0,0.0,0.0,Nongshim RedForce
+LCK Spring 2022,Kwangdong Freecs vs Nongshim RedForce,160,4,Nongshim RedForce,Kwangdong Freecs,2022-02-13,/game/stats/36803/page-game/,1656,4,15,19,1,10,11,1,2,3,0,1,1,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,Liiv SANDBOX vs DWG KIA,163,4,Liiv SANDBOX,DWG KIA,2022-02-12,/game/stats/36799/page-game/,1824,9,18,27,4,10,14,2,3,5,0,1,1,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,Liiv SANDBOX vs DWG KIA,164,4,Liiv SANDBOX,DWG KIA,2022-02-12,/game/stats/36800/page-game/,2240,4,13,17,5,9,14,3,3,6,0,1,1,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,T1 vs Gen.G eSports,167,4,T1,Gen.G eSports,2022-02-12,/game/stats/36796/page-game/,2745,21,14,35,8,8,16,3,4,7,2,1,3,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,T1 vs Gen.G eSports,168,4,T1,Gen.G eSports,2022-02-12,/game/stats/36797/page-game/,1832,13,9,22,11,0,11,3,1,4,1,0,1,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,DRX vs Hanwha Life eSports,171,4,DRX,Hanwha Life eSports,2022-02-11,/game/stats/36793/page-game/,2116,17,7,24,9,4,13,4,0,4,1,0,1,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,DRX vs Hanwha Life eSports,172,4,Hanwha Life eSports,DRX,2022-02-11,/game/stats/36794/page-game/,2570,12,8,20,6,7,13,4,2,6,1,2,3,0.0,0.0,0.0,DRX
+LCK Spring 2022,DRX vs Hanwha Life eSports,173,4,DRX,Hanwha Life eSports,2022-02-11,/game/stats/36795/page-game/,2430,15,9,24,10,3,13,3,3,6,1,0,1,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,Nongshim RedForce vs Fredit BRION,177,4,Nongshim RedForce,Fredit BRION,2022-02-11,/game/stats/36790/page-game/,2304,11,19,30,5,11,16,3,3,6,0,3,3,0.0,0.0,0.0,Fredit BRION
+LCK Spring 2022,Nongshim RedForce vs Fredit BRION,178,4,Nongshim RedForce,Fredit BRION,2022-02-11,/game/stats/36791/page-game/,2427,10,16,26,10,6,16,3,3,6,2,0,2,0.0,0.0,0.0,Fredit BRION
+LCK Spring 2022,Nongshim RedForce vs Fredit BRION,179,4,Fredit BRION,Nongshim RedForce,2022-02-11,/game/stats/36792/page-game/,2174,19,7,26,9,1,10,4,1,5,1,1,2,0.0,0.0,0.0,Nongshim RedForce
+LCK Spring 2022,Liiv SANDBOX vs Gen.G eSports,183,4,Liiv SANDBOX,Gen.G eSports,2022-02-10,/game/stats/36787/page-game/,1890,18,5,23,9,2,11,5,0,5,1,0,1,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,Liiv SANDBOX vs Gen.G eSports,184,4,Liiv SANDBOX,Gen.G eSports,2022-02-10,/game/stats/36788/page-game/,1777,5,15,20,0,9,9,1,3,4,0,2,2,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,Liiv SANDBOX vs Gen.G eSports,185,4,Liiv SANDBOX,Gen.G eSports,2022-02-10,/game/stats/36789/page-game/,1896,11,22,33,3,10,13,0,4,4,0,1,1,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,DWG KIA vs Kwangdong Freecs,189,4,DWG KIA,Kwangdong Freecs,2022-02-10,/game/stats/36784/page-game/,2316,13,6,19,11,4,15,3,3,6,2,0,2,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,DWG KIA vs Kwangdong Freecs,190,4,Kwangdong Freecs,DWG KIA,2022-02-10,/game/stats/36785/page-game/,1909,9,13,22,3,9,12,2,2,4,0,1,1,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,Nongshim RedForce vs Gen.G eSports,193,5,Nongshim RedForce,Gen.G eSports,2022-02-16,/game/stats/37340/page-game/,1749,6,15,21,3,11,14,0,4,4,0,1,1,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,Nongshim RedForce vs Gen.G eSports,194,5,Nongshim RedForce,Gen.G eSports,2022-02-16,/game/stats/37341/page-game/,1694,5,11,16,3,10,13,0,4,4,0,1,1,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,Liiv SANDBOX vs Fredit BRION,197,5,Liiv SANDBOX,Fredit BRION,2022-02-16,/game/stats/37337/page-game/,1849,15,10,25,8,4,12,3,2,5,1,0,1,0.0,0.0,0.0,Fredit BRION
+LCK Spring 2022,Liiv SANDBOX vs Fredit BRION,198,5,Fredit BRION,Liiv SANDBOX,2022-02-16,/game/stats/37338/page-game/,2039,17,7,24,10,4,14,1,4,5,2,0,2,0.0,0.0,0.0,Liiv SANDBOX
+LCK Spring 2022,Liiv SANDBOX vs Fredit BRION,199,5,Liiv SANDBOX,Fredit BRION,2022-02-16,/game/stats/37339/page-game/,1827,14,5,19,9,2,11,4,0,4,1,0,1,0.0,0.0,0.0,Fredit BRION
+LCK Spring 2022,KT Rolster vs T1,203,5,KT Rolster,T1,2022-02-18,/game/stats/37349/page-game/,1954,25,22,47,1,11,12,2,2,4,0,2,2,0.0,0.0,0.0,T1
+LCK Spring 2022,KT Rolster vs T1,204,5,KT Rolster,T1,2022-02-18,/game/stats/37350/page-game/,1320,8,20,28,2,10,12,2,1,3,0,1,1,0.0,0.0,0.0,T1
+LCK Spring 2022,DWG KIA vs DRX,207,5,DWG KIA,DRX,2022-02-17,/game/stats/37346/page-game/,2150,9,4,13,8,5,13,4,2,6,1,0,1,0.0,0.0,0.0,DRX
+LCK Spring 2022,DWG KIA vs DRX,208,5,DRX,DWG KIA,2022-02-17,/game/stats/37347/page-game/,2070,7,4,11,10,2,12,2,3,5,1,0,1,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,DWG KIA vs DRX,209,5,DWG KIA,DRX,2022-02-17,/game/stats/37348/page-game/,2805,9,11,20,5,8,13,4,2,6,1,2,3,0.0,0.0,0.0,DRX
+LCK Spring 2022,Hanwha Life eSports vs Kwangdong Freecs,213,5,Hanwha Life eSports,Kwangdong Freecs,2022-02-17,/game/stats/37343/page-game/,2073,4,17,21,3,9,12,0,5,5,0,1,1,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,Hanwha Life eSports vs Kwangdong Freecs,214,5,Hanwha Life eSports,Kwangdong Freecs,2022-02-17,/game/stats/37344/page-game/,2636,13,20,33,5,9,14,1,5,6,3,0,3,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,Gen.G eSports vs Liiv SANDBOX,217,5,Gen.G eSports,Liiv SANDBOX,2022-02-18,/game/stats/37352/page-game/,1576,17,7,24,11,0,11,1,3,4,1,0,1,0.0,0.0,0.0,Liiv SANDBOX
+LCK Spring 2022,Gen.G eSports vs Liiv SANDBOX,218,5,Liiv SANDBOX,Gen.G eSports,2022-02-18,/game/stats/37353/page-game/,1922,9,29,38,3,10,13,1,3,4,1,0,1,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,Kwangdong Freecs vs Fredit BRION,221,5,Kwangdong Freecs,Fredit BRION,2022-02-19,/game/stats/37358/page-game/,1772,12,5,17,8,2,10,4,0,4,1,0,1,0.0,0.0,0.0,Fredit BRION
+LCK Spring 2022,Kwangdong Freecs vs Fredit BRION,222,5,Fredit BRION,Kwangdong Freecs,2022-02-19,/game/stats/37359/page-game/,2702,16,12,28,8,6,14,4,2,6,1,1,2,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,Kwangdong Freecs vs Fredit BRION,223,5,Kwangdong Freecs,Fredit BRION,2022-02-19,/game/stats/37360/page-game/,2701,16,9,25,11,6,17,3,3,6,1,2,3,0.0,0.0,0.0,Fredit BRION
+LCK Spring 2022,Hanwha Life eSports vs DRX,227,5,Hanwha Life eSports,DRX,2022-02-19,/game/stats/37355/page-game/,1921,19,6,25,10,1,11,4,0,4,2,0,2,0.0,0.0,0.0,DRX
+LCK Spring 2022,Hanwha Life eSports vs DRX,228,5,DRX,Hanwha Life eSports,2022-02-19,/game/stats/37356/page-game/,2568,4,13,17,3,9,12,3,3,6,0,2,2,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,Nongshim RedForce vs T1,231,5,Nongshim RedForce,T1,2022-02-20,/game/stats/37364/page-game/,2373,0,8,8,3,7,10,1,5,6,1,1,2,0.0,0.0,0.0,T1
+LCK Spring 2022,Nongshim RedForce vs T1,232,5,Nongshim RedForce,T1,2022-02-20,/game/stats/37365/page-game/,2456,28,20,48,11,8,19,4,1,5,2,1,3,0.0,0.0,0.0,T1
+LCK Spring 2022,Nongshim RedForce vs T1,233,5,T1,Nongshim RedForce,2022-02-20,/game/stats/37366/page-game/,1779,20,5,25,8,3,11,3,2,5,1,0,1,0.0,0.0,0.0,Nongshim RedForce
+LCK Spring 2022,DWG KIA vs KT Rolster,237,5,DWG KIA,KT Rolster,2022-02-20,/game/stats/37361/page-game/,2099,2,8,10,2,9,11,0,5,5,0,1,1,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,DWG KIA vs KT Rolster,238,5,DWG KIA,KT Rolster,2022-02-20,/game/stats/37362/page-game/,1789,9,9,18,7,2,9,3,2,5,0,0,0,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,DWG KIA vs KT Rolster,239,5,DWG KIA,KT Rolster,2022-02-20,/game/stats/37363/page-game/,2381,14,7,21,9,7,16,4,3,7,2,0,2,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,KT Rolster vs Kwangdong Freecs,243,6,KT Rolster,Kwangdong Freecs,2022-02-23,/game/stats/37753/page-game/,2040,8,20,28,1,11,12,1,4,5,1,0,1,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,KT Rolster vs Kwangdong Freecs,244,6,KT Rolster,Kwangdong Freecs,2022-02-23,/game/stats/37754/page-game/,1672,2,17,19,0,8,8,1,3,4,0,1,1,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,Gen.G eSports vs Nongshim RedForce,247,6,Gen.G eSports,Nongshim RedForce,2022-02-25,/game/stats/37765/page-game/,1563,13,5,18,9,2,11,3,0,3,1,0,1,0.0,0.0,0.0,Nongshim RedForce
+LCK Spring 2022,Gen.G eSports vs Nongshim RedForce,248,6,Gen.G eSports,Nongshim RedForce,2022-02-25,/game/stats/37766/page-game/,1424,15,3,18,9,1,10,3,0,3,1,0,1,0.0,0.0,0.0,Nongshim RedForce
+LCK Spring 2022,Liiv SANDBOX vs Hanwha Life eSports,251,6,Liiv SANDBOX,Hanwha Life eSports,2022-02-24,/game/stats/37762/page-game/,2288,18,12,30,11,4,15,2,4,6,2,0,2,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,Liiv SANDBOX vs Hanwha Life eSports,252,6,Hanwha Life eSports,Liiv SANDBOX,2022-02-24,/game/stats/37763/page-game/,2198,6,14,20,5,9,14,3,3,6,0,1,1,0.0,0.0,0.0,Liiv SANDBOX
+LCK Spring 2022,Fredit BRION vs DRX,255,6,Fredit BRION,DRX,2022-02-24,/game/stats/37759/page-game/,1855,3,11,14,2,10,12,1,4,5,0,1,1,0.0,0.0,0.0,DRX
+LCK Spring 2022,Fredit BRION vs DRX,256,6,Fredit BRION,DRX,2022-02-24,/game/stats/37760/page-game/,2031,14,10,24,9,2,11,4,1,5,1,0,1,0.0,0.0,0.0,DRX
+LCK Spring 2022,Fredit BRION vs DRX,257,6,DRX,Fredit BRION,2022-02-24,/game/stats/37761/page-game/,1727,13,7,20,11,1,12,3,2,5,1,0,1,0.0,0.0,0.0,Fredit BRION
+LCK Spring 2022,T1 vs DWG KIA,261,6,T1,DWG KIA,2022-02-23,/game/stats/37756/page-game/,1805,22,11,33,9,2,11,2,1,3,2,0,2,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,T1 vs DWG KIA,262,6,DWG KIA,T1,2022-02-23,/game/stats/37757/page-game/,2776,12,12,24,5,9,14,5,2,7,1,2,3,0.0,0.0,0.0,T1
+LCK Spring 2022,Kwangdong Freecs vs DWG KIA,265,6,Kwangdong Freecs,DWG KIA,2022-02-25,/game/stats/37768/page-game/,2090,3,13,16,3,8,11,2,3,5,0,1,1,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,Kwangdong Freecs vs DWG KIA,266,6,Kwangdong Freecs,DWG KIA,2022-02-25,/game/stats/37769/page-game/,2102,6,12,18,4,8,12,2,3,5,0,1,1,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,Fredit BRION vs Liiv SANDBOX,269,8,Fredit BRION,Liiv SANDBOX,2022-03-10,/game/stats/38372/page-game/,1717,23,4,27,9,1,10,3,1,4,1,0,1,0.0,0.0,0.0,Liiv SANDBOX
+LCK Spring 2022,Fredit BRION vs Liiv SANDBOX,270,8,Liiv SANDBOX,Fredit BRION,2022-03-10,/game/stats/38373/page-game/,1864,7,15,22,2,8,10,2,2,4,0,0,0,0.0,0.0,0.0,Fredit BRION
+LCK Spring 2022,Hanwha Life eSports vs KT Rolster,273,8,Hanwha Life eSports,KT Rolster,2022-03-10,/game/stats/38369/page-game/,1917,3,17,20,2,10,12,1,4,5,0,2,2,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,Hanwha Life eSports vs KT Rolster,274,8,KT Rolster,Hanwha Life eSports,2022-03-10,/game/stats/38370/page-game/,1985,18,9,27,10,2,12,3,2,5,2,0,2,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,DWG KIA vs Gen.G eSports,277,8,DWG KIA,Gen.G eSports,2022-03-09,/game/stats/38366/page-game/,2497,7,17,24,4,10,14,2,5,7,1,2,3,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,DWG KIA vs Gen.G eSports,278,8,DWG KIA,Gen.G eSports,2022-03-09,/game/stats/38367/page-game/,2176,18,7,25,10,5,15,5,1,6,1,1,2,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,DWG KIA vs Gen.G eSports,279,8,Gen.G eSports,DWG KIA,2022-03-09,/game/stats/38368/page-game/,2539,16,10,26,10,3,13,5,2,7,1,0,1,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,Nongshim RedForce vs DRX,283,8,Nongshim RedForce,DRX,2022-03-09,/game/stats/38363/page-game/,2019,11,18,29,1,8,9,0,4,4,0,1,1,0.0,0.0,0.0,DRX
+LCK Spring 2022,Nongshim RedForce vs DRX,284,8,Nongshim RedForce,DRX,2022-03-09,/game/stats/38364/page-game/,1872,4,10,14,4,7,11,2,3,5,0,1,1,0.0,0.0,0.0,DRX
+LCK Spring 2022,T1 vs KT Rolster,287,7,T1,KT Rolster,2022-03-06,/game/stats/38169/page-game/,2103,16,15,31,9,4,13,2,2,4,0,1,1,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,T1 vs KT Rolster,288,7,KT Rolster,T1,2022-03-06,/game/stats/38170/page-game/,2052,17,17,34,4,10,14,2,3,5,0,1,1,0.0,0.0,0.0,T1
+LCK Spring 2022,Liiv SANDBOX vs DRX,291,7,Liiv SANDBOX,DRX,2022-03-06,/game/stats/38166/page-game/,1846,5,29,34,3,10,13,1,3,4,0,2,2,0.0,0.0,0.0,DRX
+LCK Spring 2022,Liiv SANDBOX vs DRX,292,7,Liiv SANDBOX,DRX,2022-03-06,/game/stats/38167/page-game/,1798,5,14,19,0,9,9,1,3,4,0,1,1,0.0,0.0,0.0,DRX
+LCK Spring 2022,Fredit BRION vs Nongshim RedForce,295,7,Fredit BRION,Nongshim RedForce,2022-03-05,/game/stats/38163/page-game/,2627,12,15,27,10,5,15,1,5,6,3,0,3,0.0,0.0,0.0,Nongshim RedForce
+LCK Spring 2022,Fredit BRION vs Nongshim RedForce,296,7,Nongshim RedForce,Fredit BRION,2022-03-05,/game/stats/38164/page-game/,2485,11,11,22,11,4,15,2,4,6,2,0,2,0.0,0.0,0.0,Fredit BRION
+LCK Spring 2022,Fredit BRION vs Nongshim RedForce,297,7,Fredit BRION,Nongshim RedForce,2022-03-05,/game/stats/38165/page-game/,2315,20,12,32,9,3,12,4,1,5,1,0,1,0.0,0.0,0.0,Nongshim RedForce
+LCK Spring 2022,Gen.G eSports vs Kwangdong Freecs,301,7,Gen.G eSports,Kwangdong Freecs,2022-03-05,/game/stats/38160/page-game/,2112,6,17,23,3,10,13,3,3,6,0,1,1,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,Gen.G eSports vs Kwangdong Freecs,302,7,Kwangdong Freecs,Gen.G eSports,2022-03-05,/game/stats/38161/page-game/,2203,10,17,27,4,8,12,3,3,6,1,0,1,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,Gen.G eSports vs Kwangdong Freecs,303,7,Gen.G eSports,Kwangdong Freecs,2022-03-05,/game/stats/38162/page-game/,1984,13,5,18,10,2,12,4,1,5,1,0,1,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,DWG KIA vs Hanwha Life eSports,307,7,DWG KIA,Hanwha Life eSports,2022-03-04,/game/stats/38157/page-game/,2868,12,11,23,10,5,15,4,3,7,2,1,3,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,DWG KIA vs Hanwha Life eSports,308,7,Hanwha Life eSports,DWG KIA,2022-03-04,/game/stats/38158/page-game/,2069,6,14,20,1,8,9,3,2,5,0,1,1,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,DRX vs KT Rolster,311,7,DRX,KT Rolster,2022-03-04,/game/stats/38154/page-game/,2498,23,16,39,9,6,15,4,3,7,1,1,2,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,DRX vs KT Rolster,312,7,DRX,KT Rolster,2022-03-04,/game/stats/38155/page-game/,1701,19,11,30,11,3,14,3,1,4,1,0,1,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,Nongshim RedForce vs Kwangdong Freecs,315,7,Nongshim RedForce,Kwangdong Freecs,2022-03-03,/game/stats/38151/page-game/,1762,6,24,30,1,11,12,0,4,4,0,1,1,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,Nongshim RedForce vs Kwangdong Freecs,316,7,Kwangdong Freecs,Nongshim RedForce,2022-03-03,/game/stats/38152/page-game/,2446,17,10,27,10,4,14,3,2,5,0,1,1,0.0,0.0,0.0,Nongshim RedForce
+LCK Spring 2022,Gen.G eSports vs T1,319,7,Gen.G eSports,T1,2022-03-03,/game/stats/38148/page-game/,1924,6,20,26,3,10,13,2,2,4,0,1,1,0.0,0.0,0.0,T1
+LCK Spring 2022,Gen.G eSports vs T1,320,7,Gen.G eSports,T1,2022-03-03,/game/stats/38149/page-game/,2154,9,15,24,4,11,15,4,1,5,0,2,2,0.0,0.0,0.0,T1
+LCK Spring 2022,DWG KIA vs Liiv SANDBOX,323,7,DWG KIA,Liiv SANDBOX,2022-03-02,/game/stats/38145/page-game/,1725,14,1,15,11,4,15,3,1,4,1,0,1,0.0,0.0,0.0,Liiv SANDBOX
+LCK Spring 2022,DWG KIA vs Liiv SANDBOX,324,7,Liiv SANDBOX,DWG KIA,2022-03-02,/game/stats/38146/page-game/,1558,2,22,24,3,11,14,0,4,4,0,1,1,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,Fredit BRION vs Hanwha Life eSports,327,7,Fredit BRION,Hanwha Life eSports,2022-03-02,/game/stats/38142/page-game/,2096,7,5,12,11,3,14,4,1,5,2,0,2,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,Fredit BRION vs Hanwha Life eSports,328,7,Hanwha Life eSports,Fredit BRION,2022-03-02,/game/stats/38143/page-game/,1756,17,6,23,8,2,10,1,3,4,1,0,1,0.0,0.0,0.0,Fredit BRION
+LCK Spring 2022,Fredit BRION vs Hanwha Life eSports,329,7,Fredit BRION,Hanwha Life eSports,2022-03-02,/game/stats/38144/page-game/,2130,13,12,25,7,6,13,3,2,5,0,1,1,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,Liiv SANDBOX vs Nongshim RedForce,333,6,Liiv SANDBOX,Nongshim RedForce,2022-02-27,/game/stats/37780/page-game/,1661,7,14,21,2,9,11,2,2,4,0,1,1,0.0,0.0,0.0,Nongshim RedForce
+LCK Spring 2022,Liiv SANDBOX vs Nongshim RedForce,334,6,Liiv SANDBOX,Nongshim RedForce,2022-02-27,/game/stats/37781/page-game/,2498,16,12,28,11,6,17,4,2,6,2,0,2,0.0,0.0,0.0,Nongshim RedForce
+LCK Spring 2022,Liiv SANDBOX vs Nongshim RedForce,335,6,Nongshim RedForce,Liiv SANDBOX,2022-02-27,/game/stats/37782/page-game/,2385,17,4,21,10,1,11,4,1,5,2,0,2,0.0,0.0,0.0,Liiv SANDBOX
+LCK Spring 2022,DRX vs Gen.G eSports,339,6,DRX,Gen.G eSports,2022-02-27,/game/stats/37777/page-game/,1751,8,18,26,3,10,13,1,3,4,0,1,1,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,DRX vs Gen.G eSports,340,6,DRX,Gen.G eSports,2022-02-27,/game/stats/37778/page-game/,1918,10,19,29,4,9,13,0,4,4,1,0,1,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,Hanwha Life eSports vs T1,343,6,Hanwha Life eSports,T1,2022-02-26,/game/stats/37774/page-game/,1825,12,19,31,3,9,12,2,2,4,0,1,1,0.0,0.0,0.0,T1
+LCK Spring 2022,Hanwha Life eSports vs T1,344,6,Hanwha Life eSports,T1,2022-02-26,/game/stats/37775/page-game/,1595,7,15,22,1,9,10,1,2,3,0,1,1,0.0,0.0,0.0,T1
+LCK Spring 2022,Kwangdong Freecs vs T1,347,8,Kwangdong Freecs,T1,2022-03-11,/game/stats/38375/page-game/,2179,11,14,25,3,10,13,4,1,5,0,1,1,0.0,0.0,0.0,T1
+LCK Spring 2022,Kwangdong Freecs vs T1,348,8,Kwangdong Freecs,T1,2022-03-11,/game/stats/38376/page-game/,1860,20,8,28,7,2,9,3,1,4,1,0,1,0.0,0.0,0.0,T1
+LCK Spring 2022,Liiv SANDBOX vs KT Rolster,351,8,Liiv SANDBOX,KT Rolster,2022-03-12,/game/stats/38381/page-game/,1772,5,19,24,2,10,12,1,3,4,0,1,1,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,Liiv SANDBOX vs KT Rolster,352,8,Liiv SANDBOX,KT Rolster,2022-03-12,/game/stats/38382/page-game/,2068,12,18,30,5,9,14,2,3,5,0,1,1,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,DWG KIA vs Nongshim RedForce,355,8,DWG KIA,Nongshim RedForce,2022-03-11,/game/stats/38378/page-game/,2503,21,8,29,11,4,15,4,1,5,2,0,2,0.0,0.0,0.0,Nongshim RedForce
+LCK Spring 2022,DWG KIA vs Nongshim RedForce,356,8,Nongshim RedForce,DWG KIA,2022-03-11,/game/stats/38379/page-game/,2031,1,17,18,2,9,11,0,5,5,0,2,2,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,Hanwha Life eSports vs Gen.G eSports,359,8,Hanwha Life eSports,Gen.G eSports,2022-03-12,/game/stats/38384/page-game/,1748,2,12,14,1,10,11,1,3,4,0,1,1,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,Hanwha Life eSports vs Gen.G eSports,360,8,Hanwha Life eSports,Gen.G eSports,2022-03-12,/game/stats/38385/page-game/,2584,15,25,40,4,10,14,4,3,7,0,2,2,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,Nongshim RedForce vs Hanwha Life eSports,363,9,Nongshim RedForce,Hanwha Life eSports,2022-03-19,/game/stats/38803/page-game/,2597,15,10,25,8,5,13,4,2,6,1,1,2,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,Nongshim RedForce vs Hanwha Life eSports,364,9,Hanwha Life eSports,Nongshim RedForce,2022-03-19,/game/stats/38804/page-game/,1653,7,17,24,0,8,8,0,4,4,0,1,1,0.0,0.0,0.0,Nongshim RedForce
+LCK Spring 2022,Gen.G eSports vs KT Rolster,367,9,Gen.G eSports,KT Rolster,2022-03-18,/game/stats/38800/page-game/,1919,17,8,25,11,1,12,2,3,5,2,0,2,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,Gen.G eSports vs KT Rolster,368,9,KT Rolster,Gen.G eSports,2022-03-18,/game/stats/38801/page-game/,1265,11,2,13,7,0,7,3,0,3,0,0,0,0.0,0.0,0.0,Gen.G eSports
+LCK Spring 2022,Gen.G eSports vs KT Rolster,369,9,Gen.G eSports,KT Rolster,2022-03-18,/game/stats/38802/page-game/,1652,20,10,30,10,2,12,3,1,4,1,0,1,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,T1 vs Liiv SANDBOX,373,9,T1,Liiv SANDBOX,2022-03-18,/game/stats/38797/page-game/,2465,10,19,29,8,9,17,2,4,6,0,2,2,0.0,0.0,0.0,Liiv SANDBOX
+LCK Spring 2022,T1 vs Liiv SANDBOX,374,9,Liiv SANDBOX,T1,2022-03-18,/game/stats/38798/page-game/,1293,3,23,26,2,10,12,0,2,2,0,1,1,0.0,0.0,0.0,T1
+LCK Spring 2022,T1 vs Liiv SANDBOX,375,9,T1,Liiv SANDBOX,2022-03-18,/game/stats/38799/page-game/,1494,20,8,28,11,1,12,1,2,3,1,0,1,0.0,0.0,0.0,Liiv SANDBOX
+LCK Spring 2022,Kwangdong Freecs vs Hanwha Life eSports,379,9,Kwangdong Freecs,Hanwha Life eSports,2022-03-17,/game/stats/38794/page-game/,1814,15,1,16,10,3,13,4,0,4,1,0,1,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,Kwangdong Freecs vs Hanwha Life eSports,380,9,Hanwha Life eSports,Kwangdong Freecs,2022-03-17,/game/stats/38795/page-game/,1811,10,4,14,11,3,14,4,0,4,1,0,1,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,Kwangdong Freecs vs Hanwha Life eSports,381,9,Kwangdong Freecs,Hanwha Life eSports,2022-03-17,/game/stats/38796/page-game/,2190,25,7,32,9,1,10,4,1,5,1,0,1,0.0,0.0,0.0,Hanwha Life eSports
+LCK Spring 2022,DRX vs DWG KIA,385,9,DRX,DWG KIA,2022-03-17,/game/stats/38791/page-game/,1537,4,18,22,1,8,9,0,4,4,0,1,1,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,DRX vs DWG KIA,386,9,DRX,DWG KIA,2022-03-17,/game/stats/38792/page-game/,1633,1,17,18,1,11,12,1,3,4,0,1,1,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,Nongshim RedForce vs KT Rolster,389,9,Nongshim RedForce,KT Rolster,2022-03-16,/game/stats/38785/page-game/,2234,15,7,22,9,3,12,5,1,6,1,1,2,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,Nongshim RedForce vs KT Rolster,390,9,KT Rolster,Nongshim RedForce,2022-03-16,/game/stats/38786/page-game/,2023,14,10,24,9,2,11,5,0,5,2,0,2,0.0,0.0,0.0,Nongshim RedForce
+LCK Spring 2022,Nongshim RedForce vs KT Rolster,391,9,Nongshim RedForce,KT Rolster,2022-03-16,/game/stats/38787/page-game/,1553,3,19,22,1,9,10,0,4,4,0,1,1,0.0,0.0,0.0,KT Rolster
+LCK Spring 2022,DRX vs Kwangdong Freecs,395,8,DRX,Kwangdong Freecs,2022-03-13,/game/stats/38390/page-game/,2044,0,14,14,3,11,14,0,4,4,0,1,1,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,DRX vs Kwangdong Freecs,396,8,DRX,Kwangdong Freecs,2022-03-13,/game/stats/38391/page-game/,2458,16,11,27,10,4,14,4,1,5,1,0,1,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,DRX vs Kwangdong Freecs,397,8,Kwangdong Freecs,DRX,2022-03-13,/game/stats/38392/page-game/,1867,6,14,20,2,11,13,1,3,4,0,1,1,0.0,0.0,0.0,DRX
+LCK Spring 2022,T1 vs Fredit BRION,401,8,T1,Fredit BRION,2022-03-13,/game/stats/38387/page-game/,1145,19,4,23,8,0,8,1,1,2,0,0,0,0.0,0.0,0.0,Fredit BRION
+LCK Spring 2022,T1 vs Fredit BRION,402,8,Fredit BRION,T1,2022-03-13,/game/stats/38388/page-game/,1194,4,22,26,0,10,10,0,1,1,0,0,0,0.0,0.0,0.0,T1
+LCK Spring 2022,T1 vs DRX,405,9,T1,DRX,2022-03-20,/game/stats/38812/page-game/,1764,16,4,20,8,1,9,4,1,5,0,0,0,0.0,0.0,0.0,DRX
+LCK Spring 2022,T1 vs DRX,406,9,DRX,T1,2022-03-20,/game/stats/38813/page-game/,1831,9,21,30,2,10,12,0,4,4,0,1,1,0.0,0.0,0.0,T1
+LCK Spring 2022,Kwangdong Freecs vs Liiv SANDBOX,409,9,Kwangdong Freecs,Liiv SANDBOX,2022-03-20,/game/stats/38809/page-game/,1918,16,5,21,10,5,15,3,2,5,1,0,1,0.0,0.0,0.0,Liiv SANDBOX
+LCK Spring 2022,Kwangdong Freecs vs Liiv SANDBOX,410,9,Liiv SANDBOX,Kwangdong Freecs,2022-03-20,/game/stats/38810/page-game/,2094,8,21,29,3,9,12,3,2,5,0,1,1,0.0,0.0,0.0,Kwangdong Freecs
+LCK Spring 2022,Fredit BRION vs DWG KIA,413,9,Fredit BRION,DWG KIA,2022-03-19,/game/stats/38806/page-game/,2393,18,9,27,10,2,12,2,3,5,2,0,2,0.0,0.0,0.0,DWG KIA
+LCK Spring 2022,Fredit BRION vs DWG KIA,414,9,DWG KIA,Fredit BRION,2022-03-19,/game/stats/38807/page-game/,1644,3,10,13,2,9,11,0,4,4,0,1,1,0.0,0.0,0.0,Fredit BRION
+LCS Spring 2022,Immortals vs Team Liquid,1,1,Immortals,Team Liquid,2022-02-06,/game/stats/36852/page-game/,1745,6,20,26,2,10,12,1,3,4,0,1,1,0.0,0.0,0.0,Team Liquid
+LCS Spring 2022,FlyQuest vs Golden Guardians,3,1,FlyQuest,Golden Guardians,2022-02-06,/game/stats/36851/page-game/,2048,14,8,22,7,6,13,3,2,5,1,1,2,0.0,0.0,0.0,Golden Guardians
+LCS Spring 2022,Cloud9 vs Evil Geniuses,5,1,Cloud9,Evil Geniuses,2022-02-06,/game/stats/36850/page-game/,2326,17,11,28,9,2,11,4,1,5,1,1,2,0.0,0.0,0.0,Evil Geniuses
+LCS Spring 2022,TSM vs Dignitas,7,1,TSM,Dignitas,2022-02-06,/game/stats/36849/page-game/,2274,6,15,21,6,8,14,2,4,6,0,1,1,0.0,0.0,0.0,Dignitas
+LCS Spring 2022,100 Thieves vs CLG,9,1,100 Thieves,CLG,2022-02-06,/game/stats/36848/page-game/,1889,25,6,31,9,1,10,4,1,5,2,0,2,0.0,0.0,0.0,CLG
+LCS Spring 2022,Dignitas vs Immortals,11,1,Dignitas,Immortals,2022-02-05,/game/stats/36847/page-game/,1888,17,3,20,11,1,12,3,1,4,1,0,1,0.0,0.0,0.0,Immortals
+LCS Spring 2022,Golden Guardians vs Cloud9,13,1,Golden Guardians,Cloud9,2022-02-05,/game/stats/36846/page-game/,1564,4,10,14,2,7,9,0,4,4,0,1,1,0.0,0.0,0.0,Cloud9
+LCS Spring 2022,Team Liquid vs 100 Thieves,15,1,Team Liquid,100 Thieves,2022-02-05,/game/stats/36845/page-game/,2412,3,13,16,4,7,11,2,4,6,0,2,2,0.0,0.0,0.0,100 Thieves
+LCS Spring 2022,CLG vs FlyQuest,17,1,CLG,FlyQuest,2022-02-05,/game/stats/36844/page-game/,2935,13,22,35,8,11,19,4,4,8,1,2,3,0.0,0.0,0.0,FlyQuest
+LCS Spring 2022,Evil Geniuses vs TSM,19,1,Evil Geniuses,TSM,2022-02-05,/game/stats/36843/page-game/,2030,13,7,20,9,4,13,4,0,4,1,0,1,0.0,0.0,0.0,TSM
+LCS Spring 2022,TSM vs FlyQuest,21,2,TSM,FlyQuest,2022-02-12,/game/stats/37030/page-game/,1512,5,22,27,3,10,13,0,4,4,0,1,1,0.0,0.0,0.0,FlyQuest
+LCS Spring 2022,Golden Guardians vs CLG,23,2,Golden Guardians,CLG,2022-02-12,/game/stats/37029/page-game/,2349,17,11,28,11,1,12,4,2,6,3,0,3,0.0,0.0,0.0,CLG
+LCS Spring 2022,Team Liquid vs Cloud9,25,2,Team Liquid,Cloud9,2022-02-12,/game/stats/37028/page-game/,2334,17,11,28,7,4,11,4,2,6,0,2,2,0.0,0.0,0.0,Cloud9
+LCS Spring 2022,100 Thieves vs Immortals,27,2,100 Thieves,Immortals,2022-02-12,/game/stats/37027/page-game/,2073,12,14,26,4,8,12,3,2,5,1,0,1,0.0,0.0,0.0,Immortals
+LCS Spring 2022,Dignitas vs Evil Geniuses,29,2,Dignitas,Evil Geniuses,2022-02-12,/game/stats/37026/page-game/,2761,3,8,11,10,8,18,3,4,7,0,2,2,0.0,0.0,0.0,Evil Geniuses
+LCS Spring 2022,CLG vs Dignitas,31,2,CLG,Dignitas,2022-02-13,/game/stats/37035/page-game/,2235,7,13,20,2,11,13,1,5,6,0,2,2,0.0,0.0,0.0,Dignitas
+LCS Spring 2022,FlyQuest vs Team Liquid,33,2,FlyQuest,Team Liquid,2022-02-13,/game/stats/37034/page-game/,2251,11,14,25,3,9,12,1,4,5,0,1,1,0.0,0.0,0.0,Team Liquid
+LCS Spring 2022,Evil Geniuses vs 100 Thieves,35,2,Evil Geniuses,100 Thieves,2022-02-13,/game/stats/37033/page-game/,2288,7,19,26,2,10,12,2,4,6,0,1,1,0.0,0.0,0.0,100 Thieves
+LCS Spring 2022,TSM vs Golden Guardians,37,2,TSM,Golden Guardians,2022-02-13,/game/stats/37032/page-game/,2616,23,29,52,8,11,19,2,5,7,1,2,3,0.0,0.0,0.0,Golden Guardians
+LCS Spring 2022,Immortals vs Cloud9,39,2,Immortals,Cloud9,2022-02-13,/game/stats/37031/page-game/,1830,3,12,15,2,9,11,1,4,5,0,1,1,0.0,0.0,0.0,Cloud9
+LCS Spring 2022,CLG vs Team Liquid,41,3,CLG,Team Liquid,2022-02-20,/game/stats/37473/page-game/,1720,10,15,25,2,10,12,0,4,4,1,0,1,0.0,0.0,0.0,Team Liquid
+LCS Spring 2022,Golden Guardians vs Dignitas,43,3,Golden Guardians,Dignitas,2022-02-20,/game/stats/37472/page-game/,2484,12,4,16,11,2,13,4,2,6,1,0,1,0.0,0.0,0.0,Dignitas
+LCS Spring 2022,TSM vs Cloud9,45,3,TSM,Cloud9,2022-02-20,/game/stats/37471/page-game/,1955,19,15,34,7,8,15,4,0,4,0,1,1,0.0,0.0,0.0,Cloud9
+LCS Spring 2022,100 Thieves vs FlyQuest,47,3,100 Thieves,FlyQuest,2022-02-20,/game/stats/37470/page-game/,2600,11,16,27,5,10,15,4,3,7,1,2,3,0.0,0.0,0.0,FlyQuest
+LCS Spring 2022,Evil Geniuses vs Immortals,49,3,Evil Geniuses,Immortals,2022-02-20,/game/stats/37469/page-game/,2213,13,20,33,3,10,13,3,2,5,0,2,2,0.0,0.0,0.0,Immortals
+LCS Spring 2022,CLG vs Cloud9,51,3,CLG,Cloud9,2022-02-19,/game/stats/37468/page-game/,2295,16,5,21,10,2,12,4,2,6,1,0,1,0.0,0.0,0.0,Cloud9
+LCS Spring 2022,Dignitas vs FlyQuest,53,3,Dignitas,FlyQuest,2022-02-19,/game/stats/37467/page-game/,2299,5,13,18,6,9,15,2,4,6,0,2,2,0.0,0.0,0.0,FlyQuest
+LCS Spring 2022,Team Liquid vs Evil Geniuses,55,3,Team Liquid,Evil Geniuses,2022-02-19,/game/stats/37466/page-game/,1673,14,5,19,8,0,8,2,1,3,1,0,1,0.0,0.0,0.0,Evil Geniuses
+LCS Spring 2022,TSM vs Immortals,57,3,TSM,Immortals,2022-02-19,/game/stats/37465/page-game/,2033,11,8,19,8,9,17,2,3,5,1,1,2,0.0,0.0,0.0,Immortals
+LCS Spring 2022,Golden Guardians vs 100 Thieves,59,3,Golden Guardians,100 Thieves,2022-02-19,/game/stats/37464/page-game/,1608,3,17,20,2,11,13,0,4,4,0,1,1,0.0,0.0,0.0,100 Thieves
+LCS Spring 2022,CLG vs Immortals,61,4,CLG,Immortals,2022-02-25,/game/stats/37839/page-game/,1880,9,26,35,3,11,14,1,4,5,0,1,1,0.0,0.0,0.0,Immortals
+LCS Spring 2022,TSM vs 100 Thieves,63,4,TSM,100 Thieves,2022-02-25,/game/stats/37838/page-game/,2103,4,18,22,2,11,13,2,3,5,0,2,2,0.0,0.0,0.0,100 Thieves
+LCS Spring 2022,Golden Guardians vs Team Liquid,65,4,Golden Guardians,Team Liquid,2022-02-25,/game/stats/37837/page-game/,1755,16,12,28,9,2,11,4,1,5,1,0,1,0.0,0.0,0.0,Team Liquid
+LCS Spring 2022,Cloud9 vs Dignitas,67,4,Cloud9,Dignitas,2022-02-25,/game/stats/37836/page-game/,1595,13,5,18,11,0,11,1,2,3,1,0,1,0.0,0.0,0.0,Dignitas
+LCS Spring 2022,Golden Guardians vs TSM,69,5,Golden Guardians,TSM,2022-03-06,/game/stats/38201/page-game/,2129,11,20,31,2,10,12,2,4,6,0,2,2,0.0,0.0,0.0,TSM
+LCS Spring 2022,FlyQuest vs Dignitas,71,5,FlyQuest,Dignitas,2022-03-06,/game/stats/38200/page-game/,1947,14,10,24,7,3,10,3,2,5,0,0,0,0.0,0.0,0.0,Dignitas
+LCS Spring 2022,Evil Geniuses vs Cloud9,73,5,Evil Geniuses,Cloud9,2022-03-06,/game/stats/38199/page-game/,1657,8,20,28,1,8,9,0,4,4,0,1,1,0.0,0.0,0.0,Cloud9
+LCS Spring 2022,CLG vs 100 Thieves,75,5,CLG,100 Thieves,2022-03-06,/game/stats/38198/page-game/,1757,3,11,14,1,10,11,1,4,5,0,1,1,0.0,0.0,0.0,100 Thieves
+LCS Spring 2022,Immortals vs Team Liquid,77,5,Immortals,Team Liquid,2022-03-06,/game/stats/38197/page-game/,2193,13,25,38,7,8,15,4,1,5,0,1,1,0.0,0.0,0.0,Team Liquid
+LCS Spring 2022,CLG vs Dignitas,79,5,CLG,Dignitas,2022-03-05,/game/stats/38196/page-game/,1784,4,10,14,4,9,13,0,4,4,0,1,1,0.0,0.0,0.0,Dignitas
+LCS Spring 2022,Cloud9 vs Golden Guardians,81,5,Cloud9,Golden Guardians,2022-03-05,/game/stats/38195/page-game/,1636,15,5,20,11,0,11,1,3,4,1,0,1,0.0,0.0,0.0,Golden Guardians
+LCS Spring 2022,Team Liquid vs 100 Thieves,83,5,Team Liquid,100 Thieves,2022-03-05,/game/stats/38194/page-game/,1945,22,12,34,7,3,10,3,1,4,1,0,1,0.0,0.0,0.0,100 Thieves
+LCS Spring 2022,TSM vs FlyQuest,85,5,TSM,FlyQuest,2022-03-05,/game/stats/38193/page-game/,1936,8,18,26,6,11,17,0,5,5,0,2,2,0.0,0.0,0.0,FlyQuest
+LCS Spring 2022,Evil Geniuses vs Immortals,87,5,Evil Geniuses,Immortals,2022-03-05,/game/stats/38192/page-game/,2197,16,6,22,9,1,10,4,0,4,1,0,1,0.0,0.0,0.0,Immortals
+LCS Spring 2022,Dignitas vs 100 Thieves,89,4,Dignitas,100 Thieves,2022-02-27,/game/stats/37850/page-game/,2069,22,8,30,10,3,13,4,1,5,1,0,1,0.0,0.0,0.0,100 Thieves
+LCS Spring 2022,Immortals vs Golden Guardians,91,4,Immortals,Golden Guardians,2022-02-27,/game/stats/37849/page-game/,2195,9,15,24,7,8,15,2,4,6,1,1,2,0.0,0.0,0.0,Golden Guardians
+LCS Spring 2022,Team Liquid vs TSM,93,4,Team Liquid,TSM,2022-02-27,/game/stats/37848/page-game/,1652,10,5,15,11,4,15,1,2,3,1,0,1,0.0,0.0,0.0,TSM
+LCS Spring 2022,CLG vs Evil Geniuses,95,4,CLG,Evil Geniuses,2022-02-27,/game/stats/37847/page-game/,2308,20,18,38,9,6,15,3,2,5,2,0,2,0.0,0.0,0.0,Evil Geniuses
+LCS Spring 2022,Cloud9 vs FlyQuest,97,4,Cloud9,FlyQuest,2022-02-27,/game/stats/37846/page-game/,1971,18,7,25,9,2,11,3,2,5,1,0,1,0.0,0.0,0.0,FlyQuest
+LCS Spring 2022,Evil Geniuses vs Golden Guardians,99,4,Evil Geniuses,Golden Guardians,2022-02-26,/game/stats/37845/page-game/,1712,18,4,22,9,2,11,3,1,4,0,1,1,0.0,0.0,0.0,Golden Guardians
+LCS Spring 2022,FlyQuest vs Immortals,101,4,FlyQuest,Immortals,2022-02-26,/game/stats/37844/page-game/,1943,4,17,21,4,11,15,1,3,4,0,1,1,0.0,0.0,0.0,Immortals
+LCS Spring 2022,Cloud9 vs 100 Thieves,103,4,Cloud9,100 Thieves,2022-02-26,/game/stats/37843/page-game/,1845,24,8,32,10,2,12,4,0,4,1,0,1,0.0,0.0,0.0,100 Thieves
+LCS Spring 2022,CLG vs TSM,105,4,CLG,TSM,2022-02-26,/game/stats/37842/page-game/,2093,20,5,25,10,3,13,3,1,4,1,1,2,0.0,0.0,0.0,TSM
+LCS Spring 2022,Dignitas vs Team Liquid,107,4,Dignitas,Team Liquid,2022-02-26,/game/stats/37841/page-game/,1917,5,14,19,3,11,14,0,4,4,0,1,1,0.0,0.0,0.0,Team Liquid
+LCS Spring 2022,Evil Geniuses vs FlyQuest,109,4,Evil Geniuses,FlyQuest,2022-02-26,/game/stats/37840/page-game/,1956,16,2,18,8,1,9,4,0,4,1,0,1,0.0,0.0,0.0,FlyQuest
+LCS Spring 2022,Golden Guardians vs 100 Thieves,111,6,Golden Guardians,100 Thieves,2022-03-12,/game/stats/38445/page-game/,2769,17,17,34,8,6,14,3,4,7,3,0,3,0.0,0.0,0.0,100 Thieves
+LCS Spring 2022,FlyQuest vs CLG,113,6,FlyQuest,CLG,2022-03-12,/game/stats/38444/page-game/,2355,6,12,18,3,11,14,2,4,6,0,3,3,0.0,0.0,0.0,CLG
+LCS Spring 2022,Golden Guardians vs CLG,115,6,Golden Guardians,CLG,2022-03-13,/game/stats/38453/page-game/,2043,7,15,22,2,8,10,0,4,4,0,0,0,0.0,0.0,0.0,CLG
+LCS Spring 2022,Dignitas vs Immortals,117,6,Dignitas,Immortals,2022-03-13,/game/stats/38452/page-game/,1799,19,9,28,11,1,12,3,1,4,2,0,2,0.0,0.0,0.0,Immortals
+LCS Spring 2022,TSM vs Evil Geniuses,119,6,TSM,Evil Geniuses,2022-03-13,/game/stats/38451/page-game/,1488,7,22,29,2,11,13,1,1,2,0,1,1,0.0,0.0,0.0,Evil Geniuses
+LCS Spring 2022,Cloud9 vs Team Liquid,121,6,Cloud9,Team Liquid,2022-03-13,/game/stats/38450/page-game/,1900,13,6,19,7,3,10,3,1,4,1,0,1,0.0,0.0,0.0,Team Liquid
+LCS Spring 2022,FlyQuest vs 100 Thieves,123,6,FlyQuest,100 Thieves,2022-03-13,/game/stats/38449/page-game/,1918,5,13,18,2,8,10,1,4,5,0,1,1,0.0,0.0,0.0,100 Thieves
+LCS Spring 2022,Cloud9 vs Immortals,125,6,Cloud9,Immortals,2022-03-12,/game/stats/38448/page-game/,1555,11,6,17,11,3,14,4,0,4,1,0,1,0.0,0.0,0.0,Immortals
+LCS Spring 2022,TSM vs Dignitas,127,6,TSM,Dignitas,2022-03-12,/game/stats/38447/page-game/,2389,8,14,22,6,10,16,1,5,6,1,2,3,0.0,0.0,0.0,Dignitas
+LCS Spring 2022,Evil Geniuses vs Team Liquid,129,6,Evil Geniuses,Team Liquid,2022-03-12,/game/stats/38446/page-game/,2263,7,12,19,2,9,11,1,4,5,1,0,1,0.0,0.0,0.0,Team Liquid
+LCS Spring 2022,Immortals vs TSM,131,7,Immortals,TSM,2022-03-20,/game/stats/38900/page-game/,1881,14,16,30,3,11,14,3,2,5,0,2,2,0.0,0.0,0.0,TSM
+LCS Spring 2022,Cloud9 vs CLG,133,7,Cloud9,CLG,2022-03-20,/game/stats/38899/page-game/,2131,20,6,26,9,2,11,4,1,5,1,0,1,0.0,0.0,0.0,CLG
+LCS Spring 2022,Team Liquid vs FlyQuest,135,7,Team Liquid,FlyQuest,2022-03-20,/game/stats/38898/page-game/,2463,9,12,21,8,9,17,3,4,7,1,2,3,0.0,0.0,0.0,FlyQuest
+LCS Spring 2022,Golden Guardians vs Dignitas,137,7,Golden Guardians,Dignitas,2022-03-20,/game/stats/38897/page-game/,1605,16,10,26,9,1,10,1,3,4,1,0,1,0.0,0.0,0.0,Dignitas
+LCS Spring 2022,Evil Geniuses vs 100 Thieves,139,7,Evil Geniuses,100 Thieves,2022-03-20,/game/stats/38896/page-game/,2910,10,16,26,6,11,17,2,5,7,1,2,3,0.0,0.0,0.0,100 Thieves
+LCS Spring 2022,Golden Guardians vs FlyQuest,141,7,Golden Guardians,FlyQuest,2022-03-19,/game/stats/38895/page-game/,1630,12,3,15,8,5,13,1,2,3,1,0,1,0.0,0.0,0.0,FlyQuest
+LCS Spring 2022,Dignitas vs Evil Geniuses,143,7,Dignitas,Evil Geniuses,2022-03-19,/game/stats/38894/page-game/,1999,4,9,13,1,11,12,1,4,5,0,1,1,0.0,0.0,0.0,Evil Geniuses
+LCS Spring 2022,Cloud9 vs TSM,145,7,Cloud9,TSM,2022-03-19,/game/stats/38893/page-game/,2137,11,22,33,3,11,14,1,4,5,1,1,2,0.0,0.0,0.0,TSM
+LCS Spring 2022,CLG vs Team Liquid,147,7,CLG,Team Liquid,2022-03-19,/game/stats/38892/page-game/,1701,7,19,26,1,10,11,0,4,4,0,1,1,0.0,0.0,0.0,Team Liquid
+LCS Spring 2022,Immortals vs 100 Thieves,149,7,Immortals,100 Thieves,2022-03-19,/game/stats/38891/page-game/,1749,6,16,22,0,11,11,0,5,5,0,1,1,0.0,0.0,0.0,100 Thieves
+LCS Spring 2022,Team Liquid vs TSM,151,8,Team Liquid,TSM,2022-03-27,/game/stats/39119/page-game/,1921,22,16,38,9,5,14,3,2,5,1,1,2,0.0,0.0,0.0,TSM
+LCS Spring 2022,Golden Guardians vs Immortals,153,8,Golden Guardians,Immortals,2022-03-27,/game/stats/39118/page-game/,1783,17,6,23,11,1,12,3,1,4,1,0,1,0.0,0.0,0.0,Immortals
+LCS Spring 2022,Cloud9 vs FlyQuest,155,8,Cloud9,FlyQuest,2022-03-27,/game/stats/39117/page-game/,2148,12,19,31,4,9,13,1,4,5,1,2,3,0.0,0.0,0.0,FlyQuest
+LCS Spring 2022,Evil Geniuses vs CLG,157,8,Evil Geniuses,CLG,2022-03-27,/game/stats/39116/page-game/,1308,20,6,26,11,1,12,2,1,3,0,0,0,0.0,0.0,0.0,CLG
+LCS Spring 2022,Dignitas vs 100 Thieves,159,8,Dignitas,100 Thieves,2022-03-27,/game/stats/39115/page-game/,1783,22,14,36,9,3,12,2,3,5,1,0,1,0.0,0.0,0.0,100 Thieves
+LCS Spring 2022,FlyQuest vs Immortals,161,8,FlyQuest,Immortals,2022-03-26,/game/stats/39114/page-game/,1806,3,11,14,2,11,13,1,4,5,0,2,2,0.0,0.0,0.0,Immortals
+LCS Spring 2022,TSM vs CLG,163,8,TSM,CLG,2022-03-26,/game/stats/39113/page-game/,1618,21,8,29,11,0,11,2,1,3,1,0,1,0.0,0.0,0.0,CLG
+LCS Spring 2022,Cloud9 vs 100 Thieves,165,8,Cloud9,100 Thieves,2022-03-26,/game/stats/39112/page-game/,1692,6,28,34,2,9,11,2,2,4,0,1,1,0.0,0.0,0.0,100 Thieves
+LCS Spring 2022,Golden Guardians vs Evil Geniuses,167,8,Golden Guardians,Evil Geniuses,2022-03-26,/game/stats/39111/page-game/,1925,17,6,23,10,2,12,3,2,5,1,0,1,0.0,0.0,0.0,Evil Geniuses
+LCS Spring 2022,Dignitas vs Team Liquid,169,8,Dignitas,Team Liquid,2022-03-26,/game/stats/39110/page-game/,2348,7,18,25,3,10,13,3,3,6,0,2,2,0.0,0.0,0.0,Team Liquid
+LCS Spring 2022,TSM vs 100 Thieves,171,8,TSM,100 Thieves,2022-03-25,/game/stats/39109/page-game/,1678,7,24,31,3,11,14,1,3,4,0,1,1,0.0,0.0,0.0,100 Thieves
+LCS Spring 2022,Immortals vs CLG,173,8,Immortals,CLG,2022-03-25,/game/stats/39108/page-game/,2102,10,16,26,6,6,12,3,3,6,1,1,2,0.0,0.0,0.0,CLG
+LCS Spring 2022,Cloud9 vs Dignitas,175,8,Cloud9,Dignitas,2022-03-25,/game/stats/39107/page-game/,1792,11,6,17,10,0,10,3,1,4,1,0,1,0.0,0.0,0.0,Dignitas
+LCS Spring 2022,Evil Geniuses vs FlyQuest,177,8,Evil Geniuses,FlyQuest,2022-03-25,/game/stats/39106/page-game/,1808,17,8,25,11,2,13,3,1,4,1,0,1,0.0,0.0,0.0,FlyQuest
+LCS Spring 2022,Golden Guardians vs Team Liquid,179,8,Golden Guardians,Team Liquid,2022-03-25,/game/stats/39105/page-game/,1607,3,17,20,4,8,12,0,4,4,0,0,0,0.0,0.0,0.0,Team Liquid
+LPL Spring 2022,Bilibili Gaming vs Royal Never Give Up,1,3,Bilibili Gaming,Royal Never Give Up,2022-01-27,/game/stats/36471/page-game/,2175,7,13,20,3,8,11,1,4,5,1,1,2,0.0,0.0,0.0,Royal Never Give Up
+LPL Spring 2022,Bilibili Gaming vs Royal Never Give Up,2,3,Royal Never Give Up,Bilibili Gaming,2022-01-27,/game/stats/36472/page-game/,1836,4,18,22,3,9,12,1,4,5,0,1,1,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,Bilibili Gaming vs Royal Never Give Up,3,3,Bilibili Gaming,Royal Never Give Up,2022-01-27,/game/stats/36473/page-game/,1990,3,13,16,3,9,12,2,3,5,0,2,2,0.0,0.0,0.0,Royal Never Give Up
+LPL Spring 2022,Top Esports vs OMG,7,3,Top Esports,OMG,2022-01-27,/game/stats/36468/page-game/,1899,12,22,34,1,9,10,1,3,4,0,1,1,0.0,0.0,0.0,OMG
+LPL Spring 2022,Top Esports vs OMG,8,3,Top Esports,OMG,2022-01-27,/game/stats/36469/page-game/,1843,6,15,21,1,11,12,1,4,5,0,1,1,0.0,0.0,0.0,OMG
+LPL Spring 2022,LNG Esports vs Funplus Phoenix,11,3,LNG Esports,Funplus Phoenix,2022-01-26,/game/stats/36465/page-game/,2050,22,8,30,11,2,13,2,3,5,1,0,1,0.0,0.0,0.0,Funplus Phoenix
+LPL Spring 2022,LNG Esports vs Funplus Phoenix,12,3,Funplus Phoenix,LNG Esports,2022-01-26,/game/stats/36466/page-game/,1740,24,5,29,8,1,9,4,0,4,0,0,0,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,LNG Esports vs Funplus Phoenix,13,3,Funplus Phoenix,LNG Esports,2022-01-26,/game/stats/36467/page-game/,1882,9,17,26,2,10,12,1,4,5,0,1,1,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,Weibo Gaming vs Victory Five,17,3,Weibo Gaming,Victory Five,2022-01-26,/game/stats/36462/page-game/,2114,7,17,24,3,9,12,0,4,4,0,1,1,0.0,0.0,0.0,Victory Five
+LPL Spring 2022,Weibo Gaming vs Victory Five,18,3,Victory Five,Weibo Gaming,2022-01-26,/game/stats/36463/page-game/,1568,4,22,26,2,9,11,0,4,4,0,1,1,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,Weibo Gaming vs Victory Five,19,3,Weibo Gaming,Victory Five,2022-01-26,/game/stats/36464/page-game/,1889,13,9,22,9,3,12,3,1,4,1,0,1,0.0,0.0,0.0,Victory Five
+LPL Spring 2022,Anyone s Legend vs TT,23,3,Anyone s Legend,TT,2022-01-25,/game/stats/36459/page-game/,2209,9,9,18,2,9,11,3,3,6,0,1,1,0.0,0.0,0.0,TT
+LPL Spring 2022,Anyone s Legend vs TT,24,3,TT,Anyone s Legend,2022-01-25,/game/stats/36460/page-game/,1641,4,22,26,0,10,10,0,4,4,0,1,1,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Anyone s Legend vs TT,25,3,TT,Anyone s Legend,2022-01-25,/game/stats/36461/page-game/,2137,22,13,35,8,4,12,3,3,6,1,0,1,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Invictus Gaming vs Ultra Prime,29,3,Invictus Gaming,Ultra Prime,2022-01-25,/game/stats/36456/page-game/,2605,19,22,41,3,10,13,4,2,6,1,2,3,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,Invictus Gaming vs Ultra Prime,30,3,Ultra Prime,Invictus Gaming,2022-01-25,/game/stats/36457/page-game/,1429,24,5,29,9,3,12,3,1,4,1,0,1,0.0,0.0,0.0,Invictus Gaming
+LPL Spring 2022,Bilibili Gaming vs Rare Atom,33,3,Bilibili Gaming,Rare Atom,2022-01-24,/game/stats/36453/page-game/,2074,15,3,18,10,4,14,2,3,5,2,0,2,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,Bilibili Gaming vs Rare Atom,34,3,Bilibili Gaming,Rare Atom,2022-01-24,/game/stats/36454/page-game/,2134,10,7,17,10,2,12,2,4,6,2,0,2,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,LGD Gaming vs OMG,37,3,LGD Gaming,OMG,2022-01-24,/game/stats/36450/page-game/,2023,17,10,27,7,4,11,4,1,5,0,1,1,0.0,0.0,0.0,OMG
+LPL Spring 2022,LGD Gaming vs OMG,38,3,OMG,LGD Gaming,2022-01-24,/game/stats/36451/page-game/,1486,16,4,20,9,2,11,3,0,3,1,0,1,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,LGD Gaming vs OMG,39,3,LGD Gaming,OMG,2022-01-24,/game/stats/36452/page-game/,2208,22,13,35,8,7,15,1,3,4,0,2,2,0.0,0.0,0.0,OMG
+LPL Spring 2022,Victory Five vs Top Esports,43,2,Victory Five,Top Esports,2022-01-23,/game/stats/36214/page-game/,3204,15,11,26,6,9,15,3,4,7,2,2,4,0.0,0.0,0.0,Top Esports
+LPL Spring 2022,Victory Five vs Top Esports,44,2,Top Esports,Victory Five,2022-01-23,/game/stats/36215/page-game/,2366,13,19,32,5,9,14,3,4,7,1,1,2,0.0,0.0,0.0,Victory Five
+LPL Spring 2022,Victory Five vs Top Esports,45,2,Victory Five,Top Esports,2022-01-23,/game/stats/36216/page-game/,1619,22,7,29,11,3,14,3,1,4,1,0,1,0.0,0.0,0.0,Top Esports
+LPL Spring 2022,Invictus Gaming vs Royal Never Give Up,49,2,Invictus Gaming,Royal Never Give Up,2022-01-23,/game/stats/36211/page-game/,1897,8,13,21,2,9,11,2,2,4,0,1,1,0.0,0.0,0.0,Royal Never Give Up
+LPL Spring 2022,Invictus Gaming vs Royal Never Give Up,50,2,Invictus Gaming,Royal Never Give Up,2022-01-23,/game/stats/36212/page-game/,1954,7,17,24,1,11,12,2,3,5,0,2,2,0.0,0.0,0.0,Royal Never Give Up
+LPL Spring 2022,Weibo Gaming vs Anyone s Legend,53,2,Weibo Gaming,Anyone s Legend,2022-01-23,/game/stats/36208/page-game/,1489,8,4,12,9,1,10,1,2,3,1,0,1,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Weibo Gaming vs Anyone s Legend,54,2,Weibo Gaming,Anyone s Legend,2022-01-23,/game/stats/36209/page-game/,1841,6,13,19,7,3,10,0,4,4,1,0,1,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Edward Gaming vs OMG,57,2,Edward Gaming,OMG,2022-01-22,/game/stats/36205/page-game/,1481,18,4,22,11,1,12,2,1,3,1,0,1,0.0,0.0,0.0,OMG
+LPL Spring 2022,Edward Gaming vs OMG,58,2,Edward Gaming,OMG,2022-01-22,/game/stats/36206/page-game/,1855,18,9,27,10,0,10,4,0,4,1,0,1,0.0,0.0,0.0,OMG
+LPL Spring 2022,Funplus Phoenix vs JD Gaming,61,2,Funplus Phoenix,JD Gaming,2022-01-22,/game/stats/36202/page-game/,1770,18,5,23,10,3,13,4,0,4,1,0,1,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,Funplus Phoenix vs JD Gaming,62,2,Funplus Phoenix,JD Gaming,2022-01-22,/game/stats/36203/page-game/,1988,6,16,22,3,9,12,1,4,5,0,2,2,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,Funplus Phoenix vs JD Gaming,63,2,JD Gaming,Funplus Phoenix,2022-01-22,/game/stats/36204/page-game/,1693,23,12,35,11,3,14,3,1,4,2,0,2,0.0,0.0,0.0,Funplus Phoenix
+LPL Spring 2022,LNG Esports vs Team WE,67,2,LNG Esports,Team WE,2022-01-22,/game/stats/36199/page-game/,1426,15,4,19,9,3,12,3,0,3,1,0,1,0.0,0.0,0.0,Team WE
+LPL Spring 2022,LNG Esports vs Team WE,68,2,LNG Esports,Team WE,2022-01-22,/game/stats/36200/page-game/,1710,18,6,24,8,2,10,2,2,4,1,0,1,0.0,0.0,0.0,Team WE
+LPL Spring 2022,Weibo Gaming vs TT,71,2,Weibo Gaming,TT,2022-01-21,/game/stats/36196/page-game/,1569,15,6,21,10,1,11,2,2,4,1,0,1,0.0,0.0,0.0,TT
+LPL Spring 2022,Weibo Gaming vs TT,72,2,Weibo Gaming,TT,2022-01-21,/game/stats/36197/page-game/,2013,1,13,14,2,9,11,1,4,5,1,0,1,0.0,0.0,0.0,TT
+LPL Spring 2022,Weibo Gaming vs TT,73,2,Weibo Gaming,TT,2022-01-21,/game/stats/36198/page-game/,2372,17,12,29,10,1,11,4,1,5,2,0,2,0.0,0.0,0.0,TT
+LPL Spring 2022,Anyone s Legend vs Royal Never Give Up,77,2,Anyone s Legend,Royal Never Give Up,2022-01-21,/game/stats/36193/page-game/,2005,18,10,28,8,4,12,4,0,4,2,0,2,0.0,0.0,0.0,Royal Never Give Up
+LPL Spring 2022,Anyone s Legend vs Royal Never Give Up,78,2,Anyone s Legend,Royal Never Give Up,2022-01-21,/game/stats/36194/page-game/,1970,9,21,30,3,9,12,1,3,4,0,1,1,0.0,0.0,0.0,Royal Never Give Up
+LPL Spring 2022,Anyone s Legend vs Royal Never Give Up,79,2,Anyone s Legend,Royal Never Give Up,2022-01-21,/game/stats/36195/page-game/,1764,7,19,26,3,8,11,2,2,4,0,1,1,0.0,0.0,0.0,Royal Never Give Up
+LPL Spring 2022,Ultra Prime vs LGD Gaming,83,2,Ultra Prime,LGD Gaming,2022-01-21,/game/stats/36190/page-game/,1589,16,8,24,9,1,10,4,0,4,1,0,1,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,Ultra Prime vs LGD Gaming,84,2,LGD Gaming,Ultra Prime,2022-01-21,/game/stats/36191/page-game/,1573,26,12,38,9,2,11,3,0,3,1,0,1,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,Ultra Prime vs LGD Gaming,85,2,Ultra Prime,LGD Gaming,2022-01-21,/game/stats/36192/page-game/,1986,22,12,34,9,3,12,4,1,5,1,0,1,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,OMG vs Bilibili Gaming,89,2,OMG,Bilibili Gaming,2022-01-20,/game/stats/36187/page-game/,2028,21,14,35,10,2,12,2,2,4,2,0,2,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,OMG vs Bilibili Gaming,90,2,Bilibili Gaming,OMG,2022-01-20,/game/stats/36188/page-game/,1697,18,9,27,9,4,13,1,3,4,1,0,1,0.0,0.0,0.0,OMG
+LPL Spring 2022,OMG vs Bilibili Gaming,91,2,OMG,Bilibili Gaming,2022-01-20,/game/stats/36189/page-game/,1939,9,34,43,2,9,11,1,4,5,0,1,1,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,Rare Atom vs Victory Five,95,2,Rare Atom,Victory Five,2022-01-20,/game/stats/36184/page-game/,2176,17,10,27,10,3,13,4,2,6,2,0,2,0.0,0.0,0.0,Victory Five
+LPL Spring 2022,Rare Atom vs Victory Five,96,2,Victory Five,Rare Atom,2022-01-20,/game/stats/36185/page-game/,1903,24,16,40,11,3,14,3,2,5,1,0,1,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,Rare Atom vs Victory Five,97,2,Rare Atom,Victory Five,2022-01-20,/game/stats/36186/page-game/,1836,7,19,26,6,9,15,3,1,4,0,2,2,0.0,0.0,0.0,Victory Five
+LPL Spring 2022,LNG Esports vs Invictus Gaming,101,2,LNG Esports,Invictus Gaming,2022-01-19,/game/stats/36181/page-game/,1800,17,4,21,11,0,11,3,1,4,1,0,1,0.0,0.0,0.0,Invictus Gaming
+LPL Spring 2022,LNG Esports vs Invictus Gaming,102,2,Invictus Gaming,LNG Esports,2022-01-19,/game/stats/36182/page-game/,2347,6,12,18,6,8,14,3,3,6,2,0,2,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,Team WE vs Top Esports,105,2,Team WE,Top Esports,2022-01-19,/game/stats/36178/page-game/,1896,10,5,15,8,4,12,2,3,5,2,0,2,0.0,0.0,0.0,Top Esports
+LPL Spring 2022,Team WE vs Top Esports,106,2,Top Esports,Team WE,2022-01-19,/game/stats/36179/page-game/,1784,12,8,20,9,3,12,4,1,5,1,0,1,0.0,0.0,0.0,Team WE
+LPL Spring 2022,Team WE vs Top Esports,107,2,Team WE,Top Esports,2022-01-19,/game/stats/36180/page-game/,1608,6,13,19,3,10,13,2,1,3,0,1,1,0.0,0.0,0.0,Top Esports
+LPL Spring 2022,Ultra Prime vs Edward Gaming,111,2,Ultra Prime,Edward Gaming,2022-01-18,/game/stats/36175/page-game/,1823,6,20,26,2,11,13,1,4,5,0,1,1,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,Ultra Prime vs Edward Gaming,112,2,Ultra Prime,Edward Gaming,2022-01-18,/game/stats/36176/page-game/,2107,17,4,21,10,2,12,3,2,5,2,0,2,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,Ultra Prime vs Edward Gaming,113,2,Ultra Prime,Edward Gaming,2022-01-18,/game/stats/36177/page-game/,2050,7,11,18,1,8,9,0,4,4,0,1,1,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,LGD Gaming vs JD Gaming,117,2,LGD Gaming,JD Gaming,2022-01-18,/game/stats/36172/page-game/,2480,8,25,33,1,9,10,2,4,6,1,1,2,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,LGD Gaming vs JD Gaming,118,2,LGD Gaming,JD Gaming,2022-01-18,/game/stats/36173/page-game/,2465,13,18,31,6,8,14,1,4,5,1,1,2,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,Funplus Phoenix vs Anyone s Legend,121,2,Funplus Phoenix,Anyone s Legend,2022-01-17,/game/stats/36169/page-game/,1753,10,7,17,10,1,11,3,1,4,1,0,1,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Funplus Phoenix vs Anyone s Legend,122,2,Funplus Phoenix,Anyone s Legend,2022-01-17,/game/stats/36170/page-game/,2038,10,8,18,9,5,14,2,3,5,0,1,1,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,TT vs Royal Never Give Up,125,2,TT,Royal Never Give Up,2022-01-17,/game/stats/36166/page-game/,2734,14,17,31,6,9,15,3,4,7,0,2,2,0.0,0.0,0.0,Royal Never Give Up
+LPL Spring 2022,TT vs Royal Never Give Up,126,2,Royal Never Give Up,TT,2022-01-17,/game/stats/36167/page-game/,2072,16,12,28,11,3,14,4,0,4,1,0,1,0.0,0.0,0.0,TT
+LPL Spring 2022,Bilibili Gaming vs Weibo Gaming,129,1,Bilibili Gaming,Weibo Gaming,2022-01-16,/game/stats/35895/page-game/,1823,8,17,25,2,10,12,0,4,4,0,1,1,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,Bilibili Gaming vs Weibo Gaming,130,1,Weibo Gaming,Bilibili Gaming,2022-01-16,/game/stats/35896/page-game/,1568,4,20,24,2,8,10,1,3,4,0,1,1,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,Bilibili Gaming vs Weibo Gaming,131,1,Bilibili Gaming,Weibo Gaming,2022-01-16,/game/stats/35897/page-game/,2410,9,13,22,10,2,12,3,3,6,2,1,3,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,Team WE vs Victory Five,135,1,Team WE,Victory Five,2022-01-16,/game/stats/35892/page-game/,1864,7,18,25,4,10,14,1,4,5,1,0,1,0.0,0.0,0.0,Victory Five
+LPL Spring 2022,Team WE vs Victory Five,136,1,Team WE,Victory Five,2022-01-16,/game/stats/35893/page-game/,1893,16,3,19,8,3,11,3,1,4,1,0,1,0.0,0.0,0.0,Victory Five
+LPL Spring 2022,Team WE vs Victory Five,137,1,Victory Five,Team WE,2022-01-16,/game/stats/35894/page-game/,1859,26,13,39,9,3,12,4,1,5,1,0,1,0.0,0.0,0.0,Team WE
+LPL Spring 2022,OMG vs Invictus Gaming,141,1,OMG,Invictus Gaming,2022-01-16,/game/stats/35889/page-game/,2224,15,10,25,9,3,12,3,3,6,2,0,2,0.0,0.0,0.0,Invictus Gaming
+LPL Spring 2022,OMG vs Invictus Gaming,142,1,Invictus Gaming,OMG,2022-01-16,/game/stats/35890/page-game/,1380,5,17,22,2,9,11,1,2,3,0,1,1,0.0,0.0,0.0,OMG
+LPL Spring 2022,Rare Atom vs LNG Esports,145,1,Rare Atom,LNG Esports,2022-01-15,/game/stats/35886/page-game/,2162,17,13,30,11,4,15,4,2,6,2,1,3,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,Rare Atom vs LNG Esports,146,1,Rare Atom,LNG Esports,2022-01-15,/game/stats/35887/page-game/,1731,3,11,14,2,11,13,1,3,4,0,1,1,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,Rare Atom vs LNG Esports,147,1,Rare Atom,LNG Esports,2022-01-15,/game/stats/35888/page-game/,2447,14,14,28,7,8,15,3,3,6,1,1,2,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,Top Esports vs Ultra Prime,151,1,Top Esports,Ultra Prime,2022-01-15,/game/stats/35883/page-game/,2171,23,13,36,10,1,11,4,1,5,1,0,1,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,Top Esports vs Ultra Prime,152,1,Top Esports,Ultra Prime,2022-01-15,/game/stats/35884/page-game/,2083,12,21,33,4,10,14,2,2,4,0,1,1,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,Top Esports vs Ultra Prime,153,1,Top Esports,Ultra Prime,2022-01-15,/game/stats/35885/page-game/,1791,20,5,25,10,1,11,3,1,4,2,0,2,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,TT vs Edward Gaming,157,1,TT,Edward Gaming,2022-01-15,/game/stats/35880/page-game/,1444,4,17,21,0,9,9,0,3,3,0,1,1,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,TT vs Edward Gaming,158,1,TT,Edward Gaming,2022-01-15,/game/stats/35881/page-game/,1476,7,16,23,1,10,11,2,2,4,0,1,1,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,Royal Never Give Up vs JD Gaming,161,1,Royal Never Give Up,JD Gaming,2022-01-14,/game/stats/35877/page-game/,1910,14,4,18,11,2,13,4,0,4,1,0,1,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,Royal Never Give Up vs JD Gaming,162,1,Royal Never Give Up,JD Gaming,2022-01-14,/game/stats/35878/page-game/,1996,13,18,31,5,9,14,2,3,5,0,2,2,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,Royal Never Give Up vs JD Gaming,163,1,Royal Never Give Up,JD Gaming,2022-01-14,/game/stats/35879/page-game/,1907,14,7,21,9,2,11,4,1,5,1,0,1,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,Anyone s Legend vs OMG,167,1,Anyone s Legend,OMG,2022-01-14,/game/stats/35874/page-game/,1930,11,23,34,2,8,10,1,3,4,0,1,1,0.0,0.0,0.0,OMG
+LPL Spring 2022,Anyone s Legend vs OMG,168,1,OMG,Anyone s Legend,2022-01-14,/game/stats/35875/page-game/,2352,25,24,49,7,3,10,2,4,6,1,1,2,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,LGD Gaming vs Funplus Phoenix,171,1,LGD Gaming,Funplus Phoenix,2022-01-14,/game/stats/35871/page-game/,2203,10,13,23,4,9,13,3,2,5,1,0,1,0.0,0.0,0.0,Funplus Phoenix
+LPL Spring 2022,LGD Gaming vs Funplus Phoenix,172,1,LGD Gaming,Funplus Phoenix,2022-01-14,/game/stats/35872/page-game/,1481,17,30,47,0,10,10,1,3,4,0,1,1,0.0,0.0,0.0,Funplus Phoenix
+LPL Spring 2022,Team WE vs Weibo Gaming,175,1,Team WE,Weibo Gaming,2022-01-13,/game/stats/35868/page-game/,2384,18,12,30,6,10,16,4,1,5,0,2,2,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,Team WE vs Weibo Gaming,176,1,Weibo Gaming,Team WE,2022-01-13,/game/stats/35869/page-game/,1520,17,4,21,10,0,10,4,0,4,1,0,1,0.0,0.0,0.0,Team WE
+LPL Spring 2022,TT vs Invictus Gaming,179,1,TT,Invictus Gaming,2022-01-13,/game/stats/35865/page-game/,1601,3,12,15,2,11,13,0,4,4,0,1,1,0.0,0.0,0.0,Invictus Gaming
+LPL Spring 2022,TT vs Invictus Gaming,180,1,Invictus Gaming,TT,2022-01-13,/game/stats/35866/page-game/,1771,12,9,21,8,2,10,4,1,5,1,0,1,0.0,0.0,0.0,TT
+LPL Spring 2022,Ultra Prime vs LNG Esports,183,1,Ultra Prime,LNG Esports,2022-01-12,/game/stats/35862/page-game/,1872,10,17,27,5,9,14,2,2,4,0,1,1,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,Ultra Prime vs LNG Esports,184,1,Ultra Prime,LNG Esports,2022-01-12,/game/stats/35863/page-game/,1553,11,19,30,2,10,12,0,3,3,0,1,1,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,Rare Atom vs Top Esports,187,1,Rare Atom,Top Esports,2022-01-12,/game/stats/35859/page-game/,2046,14,8,22,9,4,13,3,2,5,2,0,2,0.0,0.0,0.0,Top Esports
+LPL Spring 2022,Rare Atom vs Top Esports,188,1,Top Esports,Rare Atom,2022-01-12,/game/stats/35860/page-game/,2269,22,13,35,4,8,12,2,4,6,0,2,2,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,LGD Gaming vs Anyone s Legend,191,1,LGD Gaming,Anyone s Legend,2022-01-11,/game/stats/35856/page-game/,2138,31,14,45,10,3,13,4,1,5,1,1,2,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,LGD Gaming vs Anyone s Legend,192,1,Anyone s Legend,LGD Gaming,2022-01-11,/game/stats/35857/page-game/,1712,15,5,20,8,2,10,2,2,4,1,0,1,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,LGD Gaming vs Anyone s Legend,193,1,LGD Gaming,Anyone s Legend,2022-01-11,/game/stats/35858/page-game/,1846,8,18,26,4,7,11,0,4,4,0,1,1,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,JD Gaming vs Edward Gaming,197,1,JD Gaming,Edward Gaming,2022-01-11,/game/stats/35853/page-game/,1531,9,29,38,3,9,12,0,4,4,0,1,1,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,JD Gaming vs Edward Gaming,198,1,JD Gaming,Edward Gaming,2022-01-11,/game/stats/35854/page-game/,1960,13,22,35,2,10,12,3,2,5,0,2,2,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,Funplus Phoenix vs Royal Never Give Up,201,1,Funplus Phoenix,Royal Never Give Up,2022-01-10,/game/stats/35850/page-game/,1893,12,8,20,10,3,13,4,1,5,2,0,2,0.0,0.0,0.0,Royal Never Give Up
+LPL Spring 2022,Funplus Phoenix vs Royal Never Give Up,202,1,Funplus Phoenix,Royal Never Give Up,2022-01-10,/game/stats/35851/page-game/,2271,3,16,19,6,11,17,0,4,4,1,1,2,0.0,0.0,0.0,Royal Never Give Up
+LPL Spring 2022,Funplus Phoenix vs Royal Never Give Up,203,1,Royal Never Give Up,Funplus Phoenix,2022-01-10,/game/stats/35852/page-game/,1900,13,14,27,4,8,12,0,4,4,0,2,2,0.0,0.0,0.0,Funplus Phoenix
+LPL Spring 2022,OMG vs TT,207,1,OMG,TT,2022-01-10,/game/stats/35847/page-game/,1365,13,6,19,8,3,11,2,1,3,1,0,1,0.0,0.0,0.0,TT
+LPL Spring 2022,OMG vs TT,208,1,OMG,TT,2022-01-10,/game/stats/35848/page-game/,1444,22,8,30,9,2,11,2,1,3,1,0,1,0.0,0.0,0.0,TT
+LPL Spring 2022,LNG Esports vs Bilibili Gaming,211,4,LNG Esports,Bilibili Gaming,2022-02-13,/game/stats/36645/page-game/,1755,8,18,26,2,10,12,0,4,4,0,1,1,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,LNG Esports vs Bilibili Gaming,212,4,LNG Esports,Bilibili Gaming,2022-02-13,/game/stats/36646/page-game/,1781,20,13,33,10,2,12,2,3,5,1,0,1,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,LNG Esports vs Bilibili Gaming,213,4,LNG Esports,Bilibili Gaming,2022-02-13,/game/stats/36647/page-game/,1469,14,2,16,10,7,17,3,0,3,1,0,1,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,Victory Five vs Invictus Gaming,217,4,Victory Five,Invictus Gaming,2022-02-13,/game/stats/36642/page-game/,1616,1,14,15,2,10,12,0,4,4,0,1,1,0.0,0.0,0.0,Invictus Gaming
+LPL Spring 2022,Victory Five vs Invictus Gaming,218,4,Invictus Gaming,Victory Five,2022-02-13,/game/stats/36643/page-game/,1543,5,15,20,2,10,12,1,2,3,0,1,1,0.0,0.0,0.0,Victory Five
+LPL Spring 2022,Victory Five vs Invictus Gaming,219,4,Victory Five,Invictus Gaming,2022-02-13,/game/stats/36644/page-game/,1381,13,6,19,11,4,15,2,1,3,0,0,0,0.0,0.0,0.0,Invictus Gaming
+LPL Spring 2022,Rare Atom vs Anyone s Legend,223,4,Rare Atom,Anyone s Legend,2022-02-13,/game/stats/36639/page-game/,1554,0,16,16,2,8,10,2,1,3,0,1,1,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Rare Atom vs Anyone s Legend,224,4,Rare Atom,Anyone s Legend,2022-02-13,/game/stats/36640/page-game/,2049,15,16,31,9,7,16,2,2,4,1,1,2,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Rare Atom vs Anyone s Legend,225,4,Rare Atom,Anyone s Legend,2022-02-13,/game/stats/36641/page-game/,1795,9,19,28,1,8,9,3,1,4,0,1,1,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Top Esports vs Royal Never Give Up,229,4,Top Esports,Royal Never Give Up,2022-02-12,/game/stats/36636/page-game/,2599,19,18,37,6,8,14,3,3,6,2,1,3,0.0,0.0,0.0,Royal Never Give Up
+LPL Spring 2022,Top Esports vs Royal Never Give Up,230,4,Royal Never Give Up,Top Esports,2022-02-12,/game/stats/36637/page-game/,1951,20,13,33,11,0,11,3,0,3,1,0,1,0.0,0.0,0.0,Top Esports
+LPL Spring 2022,Funplus Phoenix vs Weibo Gaming,233,4,Funplus Phoenix,Weibo Gaming,2022-02-12,/game/stats/36633/page-game/,2237,16,24,40,4,10,14,2,4,6,0,2,2,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,Funplus Phoenix vs Weibo Gaming,234,4,Funplus Phoenix,Weibo Gaming,2022-02-12,/game/stats/36634/page-game/,1616,17,4,21,8,2,10,4,0,4,1,0,1,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,Funplus Phoenix vs Weibo Gaming,235,4,Weibo Gaming,Funplus Phoenix,2022-02-12,/game/stats/36635/page-game/,2460,21,13,34,9,6,15,2,4,6,0,2,2,0.0,0.0,0.0,Funplus Phoenix
+LPL Spring 2022,Edward Gaming vs Team WE,239,4,Edward Gaming,Team WE,2022-02-12,/game/stats/36630/page-game/,1418,14,4,18,9,2,11,3,0,3,0,0,0,0.0,0.0,0.0,Team WE
+LPL Spring 2022,Edward Gaming vs Team WE,240,4,Team WE,Edward Gaming,2022-02-12,/game/stats/36631/page-game/,1981,11,17,28,3,11,14,2,2,4,0,2,2,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,Victory Five vs OMG,243,4,Victory Five,OMG,2022-02-11,/game/stats/36627/page-game/,1926,6,18,24,8,9,17,1,4,5,0,1,1,0.0,0.0,0.0,OMG
+LPL Spring 2022,Victory Five vs OMG,244,4,Victory Five,OMG,2022-02-11,/game/stats/36628/page-game/,1802,24,9,33,9,0,9,4,0,4,0,1,1,0.0,0.0,0.0,OMG
+LPL Spring 2022,Victory Five vs OMG,245,4,OMG,Victory Five,2022-02-11,/game/stats/36629/page-game/,2306,11,17,28,5,11,16,3,3,6,1,1,2,0.0,0.0,0.0,Victory Five
+LPL Spring 2022,TT vs Bilibili Gaming,249,4,TT,Bilibili Gaming,2022-02-11,/game/stats/36624/page-game/,2237,2,10,12,3,10,13,3,3,6,0,2,2,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,TT vs Bilibili Gaming,250,4,TT,Bilibili Gaming,2022-02-11,/game/stats/36625/page-game/,1723,8,16,24,3,9,12,0,4,4,0,1,1,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,Ultra Prime vs Anyone s Legend,253,4,Ultra Prime,Anyone s Legend,2022-02-11,/game/stats/36621/page-game/,1727,16,4,20,9,1,10,2,2,4,1,0,1,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Ultra Prime vs Anyone s Legend,254,4,Ultra Prime,Anyone s Legend,2022-02-11,/game/stats/36622/page-game/,1764,9,22,31,2,9,11,1,2,3,1,0,1,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Ultra Prime vs Anyone s Legend,255,4,Ultra Prime,Anyone s Legend,2022-02-11,/game/stats/36623/page-game/,2048,10,25,35,1,8,9,1,4,5,0,1,1,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,JD Gaming vs Team WE,259,4,JD Gaming,Team WE,2022-02-10,/game/stats/36618/page-game/,1705,17,4,21,9,3,12,3,1,4,1,0,1,0.0,0.0,0.0,Team WE
+LPL Spring 2022,JD Gaming vs Team WE,260,4,Team WE,JD Gaming,2022-02-10,/game/stats/36619/page-game/,1349,3,25,28,1,9,10,1,2,3,0,1,1,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,Rare Atom vs Invictus Gaming,263,4,Rare Atom,Invictus Gaming,2022-02-10,/game/stats/36615/page-game/,1713,7,16,23,6,9,15,1,3,4,0,2,2,0.0,0.0,0.0,Invictus Gaming
+LPL Spring 2022,Rare Atom vs Invictus Gaming,264,4,Rare Atom,Invictus Gaming,2022-02-10,/game/stats/36616/page-game/,2096,11,21,32,2,11,13,1,4,5,0,2,2,0.0,0.0,0.0,Invictus Gaming
+LPL Spring 2022,Team WE vs LGD Gaming,267,5,Team WE,LGD Gaming,2022-02-14,/game/stats/37398/page-game/,2169,9,6,15,7,4,11,3,3,6,0,0,0,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,Team WE vs LGD Gaming,268,5,LGD Gaming,Team WE,2022-02-14,/game/stats/37399/page-game/,2396,26,16,42,10,3,13,4,2,6,2,0,2,0.0,0.0,0.0,Team WE
+LPL Spring 2022,Team WE vs LGD Gaming,269,5,Team WE,LGD Gaming,2022-02-14,/game/stats/37400/page-game/,1618,25,12,37,9,1,10,3,1,4,1,0,1,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,Funplus Phoenix vs Ultra Prime,273,5,Funplus Phoenix,Ultra Prime,2022-02-14,/game/stats/37395/page-game/,1817,15,11,26,7,4,11,3,1,4,0,1,1,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,Funplus Phoenix vs Ultra Prime,274,5,Ultra Prime,Funplus Phoenix,2022-02-14,/game/stats/37396/page-game/,2423,24,10,34,9,6,15,4,1,5,0,2,2,0.0,0.0,0.0,Funplus Phoenix
+LPL Spring 2022,Funplus Phoenix vs Ultra Prime,275,5,Funplus Phoenix,Ultra Prime,2022-02-14,/game/stats/37397/page-game/,1545,23,5,28,11,1,12,4,0,4,1,0,1,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,Edward Gaming vs Weibo Gaming,279,5,Edward Gaming,Weibo Gaming,2022-02-15,/game/stats/37404/page-game/,1998,5,16,21,3,9,12,2,2,4,0,1,1,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,Edward Gaming vs Weibo Gaming,280,5,Weibo Gaming,Edward Gaming,2022-02-15,/game/stats/37405/page-game/,1880,14,3,17,9,2,11,1,3,4,1,0,1,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,JD Gaming vs OMG,283,5,JD Gaming,OMG,2022-02-15,/game/stats/37401/page-game/,2098,20,6,26,10,4,14,4,1,5,2,0,2,0.0,0.0,0.0,OMG
+LPL Spring 2022,JD Gaming vs OMG,284,5,OMG,JD Gaming,2022-02-15,/game/stats/37402/page-game/,1498,2,24,26,1,10,11,0,3,3,0,1,1,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,Victory Five vs Royal Never Give Up,287,5,Victory Five,Royal Never Give Up,2022-02-16,/game/stats/37410/page-game/,2749,22,19,41,11,4,15,4,3,7,2,1,3,0.0,0.0,0.0,Royal Never Give Up
+LPL Spring 2022,Victory Five vs Royal Never Give Up,288,5,Victory Five,Royal Never Give Up,2022-02-16,/game/stats/37411/page-game/,1788,18,9,27,8,2,10,3,1,4,1,0,1,0.0,0.0,0.0,Royal Never Give Up
+LPL Spring 2022,TT vs Top Esports,291,5,TT,Top Esports,2022-02-16,/game/stats/37407/page-game/,1415,3,21,24,1,11,12,0,3,3,0,1,1,0.0,0.0,0.0,Top Esports
+LPL Spring 2022,TT vs Top Esports,292,5,TT,Top Esports,2022-02-16,/game/stats/37408/page-game/,1986,8,14,22,2,10,12,0,4,4,1,0,1,0.0,0.0,0.0,Top Esports
+LPL Spring 2022,Invictus Gaming vs Bilibili Gaming,295,5,Invictus Gaming,Bilibili Gaming,2022-02-17,/game/stats/37416/page-game/,2219,27,16,43,9,4,13,4,1,5,1,1,2,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,Invictus Gaming vs Bilibili Gaming,296,5,Bilibili Gaming,Invictus Gaming,2022-02-17,/game/stats/37417/page-game/,2255,35,27,62,9,7,16,2,3,5,0,2,2,0.0,0.0,0.0,Invictus Gaming
+LPL Spring 2022,Invictus Gaming vs Bilibili Gaming,297,5,Invictus Gaming,Bilibili Gaming,2022-02-17,/game/stats/37418/page-game/,2187,23,15,38,10,2,12,2,3,5,1,0,1,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,LNG Esports vs Anyone s Legend,301,5,LNG Esports,Anyone s Legend,2022-02-17,/game/stats/37413/page-game/,1734,5,26,31,2,10,12,0,4,4,0,1,1,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,LNG Esports vs Anyone s Legend,302,5,LNG Esports,Anyone s Legend,2022-02-17,/game/stats/37414/page-game/,1470,19,2,21,10,1,11,3,1,4,1,0,1,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,LNG Esports vs Anyone s Legend,303,5,LNG Esports,Anyone s Legend,2022-02-17,/game/stats/37415/page-game/,1879,20,9,29,11,1,12,2,2,4,0,0,0,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Edward Gaming vs Funplus Phoenix,307,5,Edward Gaming,Funplus Phoenix,2022-02-18,/game/stats/37425/page-game/,1934,16,4,20,10,4,14,1,3,4,2,0,2,0.0,0.0,0.0,Funplus Phoenix
+LPL Spring 2022,Edward Gaming vs Funplus Phoenix,308,5,Funplus Phoenix,Edward Gaming,2022-02-18,/game/stats/37426/page-game/,2357,18,20,38,9,7,16,2,4,6,1,2,3,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,Ultra Prime vs Weibo Gaming,311,5,Ultra Prime,Weibo Gaming,2022-02-18,/game/stats/37422/page-game/,1519,3,14,17,1,11,12,2,2,4,0,1,1,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,Ultra Prime vs Weibo Gaming,312,5,Ultra Prime,Weibo Gaming,2022-02-18,/game/stats/37423/page-game/,1555,5,15,20,1,11,12,0,2,2,0,1,1,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,LGD Gaming vs Rare Atom,315,5,LGD Gaming,Rare Atom,2022-02-18,/game/stats/37419/page-game/,1953,16,5,21,9,7,16,3,2,5,1,0,1,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,LGD Gaming vs Rare Atom,316,5,LGD Gaming,Rare Atom,2022-02-18,/game/stats/37420/page-game/,1680,8,16,24,2,9,11,1,4,5,0,1,1,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,LGD Gaming vs Rare Atom,317,5,LGD Gaming,Rare Atom,2022-02-18,/game/stats/37421/page-game/,2451,29,22,51,6,7,13,3,3,6,1,1,2,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,JD Gaming vs Top Esports,321,5,JD Gaming,Top Esports,2022-02-19,/game/stats/37434/page-game/,2081,12,23,35,4,10,14,3,3,6,0,2,2,0.0,0.0,0.0,Top Esports
+LPL Spring 2022,JD Gaming vs Top Esports,322,5,Top Esports,JD Gaming,2022-02-19,/game/stats/37435/page-game/,1501,4,19,23,2,9,11,1,3,4,0,1,1,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,JD Gaming vs Top Esports,323,5,Top Esports,JD Gaming,2022-02-19,/game/stats/37436/page-game/,1933,14,8,22,8,3,11,2,3,5,1,0,1,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,Bilibili Gaming vs Anyone s Legend,327,5,Bilibili Gaming,Anyone s Legend,2022-02-19,/game/stats/37431/page-game/,2312,15,5,20,11,5,16,4,1,5,1,1,2,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Bilibili Gaming vs Anyone s Legend,328,5,Anyone s Legend,Bilibili Gaming,2022-02-19,/game/stats/37432/page-game/,1746,4,19,23,1,9,10,1,2,3,0,2,2,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,OMG vs Team WE,331,5,OMG,Team WE,2022-02-19,/game/stats/37428/page-game/,1749,17,5,22,10,4,14,3,1,4,1,0,1,0.0,0.0,0.0,Team WE
+LPL Spring 2022,OMG vs Team WE,332,5,Team WE,OMG,2022-02-19,/game/stats/37429/page-game/,1782,12,18,30,4,10,14,2,2,4,0,1,1,0.0,0.0,0.0,OMG
+LPL Spring 2022,LNG Esports vs Royal Never Give Up,335,5,LNG Esports,Royal Never Give Up,2022-02-20,/game/stats/37443/page-game/,1454,18,3,21,9,2,11,3,0,3,1,0,1,0.0,0.0,0.0,Royal Never Give Up
+LPL Spring 2022,LNG Esports vs Royal Never Give Up,336,5,Royal Never Give Up,LNG Esports,2022-02-20,/game/stats/37444/page-game/,1986,16,10,26,8,5,13,4,1,5,1,1,2,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,LNG Esports vs Royal Never Give Up,337,5,LNG Esports,Royal Never Give Up,2022-02-20,/game/stats/37445/page-game/,2090,8,19,27,3,11,14,2,3,5,0,2,2,0.0,0.0,0.0,Royal Never Give Up
+LPL Spring 2022,Edward Gaming vs Invictus Gaming,341,5,Edward Gaming,Invictus Gaming,2022-02-20,/game/stats/37440/page-game/,1495,15,7,22,7,2,9,1,2,3,1,0,1,0.0,0.0,0.0,Invictus Gaming
+LPL Spring 2022,Edward Gaming vs Invictus Gaming,342,5,Invictus Gaming,Edward Gaming,2022-02-20,/game/stats/37441/page-game/,1821,11,19,30,7,10,17,2,2,4,1,1,2,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,Rare Atom vs TT,345,5,Rare Atom,TT,2022-02-20,/game/stats/37437/page-game/,2379,13,19,32,8,8,16,3,3,6,1,2,3,0.0,0.0,0.0,TT
+LPL Spring 2022,Rare Atom vs TT,346,5,Rare Atom,TT,2022-02-20,/game/stats/37438/page-game/,1863,25,12,37,9,2,11,4,0,4,0,1,1,0.0,0.0,0.0,TT
+LPL Spring 2022,Rare Atom vs TT,347,5,Rare Atom,TT,2022-02-20,/game/stats/37439/page-game/,1911,11,6,17,8,3,11,3,2,5,0,1,1,0.0,0.0,0.0,TT
+LPL Spring 2022,JD Gaming vs Invictus Gaming,351,6,JD Gaming,Invictus Gaming,2022-02-22,/game/stats/37711/page-game/,1907,20,7,27,9,3,12,4,1,5,1,0,1,0.0,0.0,0.0,Invictus Gaming
+LPL Spring 2022,JD Gaming vs Invictus Gaming,352,6,JD Gaming,Invictus Gaming,2022-02-22,/game/stats/37712/page-game/,2097,19,26,45,3,9,12,2,4,6,1,1,2,0.0,0.0,0.0,Invictus Gaming
+LPL Spring 2022,JD Gaming vs Invictus Gaming,353,6,JD Gaming,Invictus Gaming,2022-02-22,/game/stats/37713/page-game/,1648,10,27,37,4,9,13,0,3,3,0,0,0,0.0,0.0,0.0,Invictus Gaming
+LPL Spring 2022,Royal Never Give Up vs Rare Atom,357,6,Royal Never Give Up,Rare Atom,2022-02-22,/game/stats/37708/page-game/,2054,3,17,20,3,11,14,1,4,5,0,2,2,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,Royal Never Give Up vs Rare Atom,358,6,Royal Never Give Up,Rare Atom,2022-02-22,/game/stats/37709/page-game/,1630,8,14,22,4,8,12,2,2,4,0,1,1,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,Top Esports vs Funplus Phoenix,361,6,Top Esports,Funplus Phoenix,2022-02-21,/game/stats/37705/page-game/,1530,18,0,18,10,3,13,2,0,2,1,0,1,0.0,0.0,0.0,Funplus Phoenix
+LPL Spring 2022,Top Esports vs Funplus Phoenix,362,6,Funplus Phoenix,Top Esports,2022-02-21,/game/stats/37706/page-game/,2074,10,4,14,9,4,13,3,2,5,1,0,1,0.0,0.0,0.0,Top Esports
+LPL Spring 2022,Top Esports vs Funplus Phoenix,363,6,Top Esports,Funplus Phoenix,2022-02-21,/game/stats/37707/page-game/,1772,9,5,14,10,4,14,4,1,5,1,0,1,0.0,0.0,0.0,Funplus Phoenix
+LPL Spring 2022,Victory Five vs LGD Gaming,367,6,Victory Five,LGD Gaming,2022-02-21,/game/stats/37702/page-game/,1828,5,17,22,1,9,10,2,3,5,0,1,1,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,Victory Five vs LGD Gaming,368,6,Victory Five,LGD Gaming,2022-02-21,/game/stats/37703/page-game/,1311,23,5,28,10,1,11,2,0,2,1,0,1,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,Victory Five vs LGD Gaming,369,6,Victory Five,LGD Gaming,2022-02-21,/game/stats/37704/page-game/,1150,25,2,27,9,0,9,1,1,2,0,0,0,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,LNG Esports vs Weibo Gaming,373,6,LNG Esports,Weibo Gaming,2022-02-24,/game/stats/37723/page-game/,2712,15,26,41,6,8,14,3,4,7,1,2,3,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,LNG Esports vs Weibo Gaming,374,6,Weibo Gaming,LNG Esports,2022-02-24,/game/stats/37724/page-game/,1891,9,24,33,3,9,12,0,4,4,0,1,1,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,LNG Esports vs Weibo Gaming,375,6,LNG Esports,Weibo Gaming,2022-02-24,/game/stats/37725/page-game/,1859,7,15,22,1,11,12,1,4,5,0,1,1,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,Team WE vs Bilibili Gaming,379,6,Team WE,Bilibili Gaming,2022-02-24,/game/stats/37720/page-game/,3046,17,15,32,4,11,15,4,3,7,2,2,4,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,Team WE vs Bilibili Gaming,380,6,Bilibili Gaming,Team WE,2022-02-24,/game/stats/37721/page-game/,1884,10,19,29,3,9,12,0,4,4,0,1,1,0.0,0.0,0.0,Team WE
+LPL Spring 2022,Team WE vs Bilibili Gaming,381,6,Bilibili Gaming,Team WE,2022-02-24,/game/stats/37722/page-game/,1614,16,5,21,11,1,12,4,0,4,1,0,1,0.0,0.0,0.0,Team WE
+LPL Spring 2022,Victory Five vs Edward Gaming,385,6,Victory Five,Edward Gaming,2022-02-23,/game/stats/37717/page-game/,1749,14,7,21,10,1,11,4,0,4,1,0,1,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,Victory Five vs Edward Gaming,386,6,Edward Gaming,Victory Five,2022-02-23,/game/stats/37718/page-game/,1579,8,22,30,3,10,13,1,3,4,0,1,1,0.0,0.0,0.0,Victory Five
+LPL Spring 2022,OMG vs Ultra Prime,389,6,OMG,Ultra Prime,2022-02-23,/game/stats/37714/page-game/,1600,6,16,22,0,9,9,0,4,4,0,1,1,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,OMG vs Ultra Prime,390,6,Ultra Prime,OMG,2022-02-23,/game/stats/37715/page-game/,1925,7,18,25,2,8,10,2,3,5,0,1,1,0.0,0.0,0.0,OMG
+LPL Spring 2022,OMG vs Ultra Prime,391,6,OMG,Ultra Prime,2022-02-23,/game/stats/37716/page-game/,1985,9,26,35,2,9,11,0,4,4,0,1,1,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,Funplus Phoenix vs Rare Atom,395,6,Funplus Phoenix,Rare Atom,2022-02-25,/game/stats/37732/page-game/,1684,7,17,24,3,10,13,1,3,4,0,1,1,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,Funplus Phoenix vs Rare Atom,396,6,Funplus Phoenix,Rare Atom,2022-02-25,/game/stats/37733/page-game/,1595,7,14,21,1,11,12,1,3,4,0,1,1,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,Anyone s Legend vs JD Gaming,399,6,Anyone s Legend,JD Gaming,2022-02-25,/game/stats/37729/page-game/,1995,5,17,22,2,10,12,0,4,4,0,1,1,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,Anyone s Legend vs JD Gaming,400,6,Anyone s Legend,JD Gaming,2022-02-25,/game/stats/37730/page-game/,1922,24,10,34,9,4,13,4,0,4,1,0,1,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,Anyone s Legend vs JD Gaming,401,6,Anyone s Legend,JD Gaming,2022-02-25,/game/stats/37731/page-game/,2010,14,16,30,2,9,11,1,4,5,1,0,1,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,TT vs LGD Gaming,405,6,TT,LGD Gaming,2022-02-25,/game/stats/37726/page-game/,2020,5,13,18,2,11,13,2,4,6,0,2,2,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,TT vs LGD Gaming,406,6,LGD Gaming,TT,2022-02-25,/game/stats/37727/page-game/,1778,7,16,23,1,9,10,0,4,4,0,1,1,0.0,0.0,0.0,TT
+LPL Spring 2022,TT vs LGD Gaming,407,6,LGD Gaming,TT,2022-02-25,/game/stats/37728/page-game/,1894,17,7,24,10,0,10,4,1,5,1,0,1,0.0,0.0,0.0,TT
+LPL Spring 2022,Team WE vs Invictus Gaming,411,8,Team WE,Invictus Gaming,2022-03-10,/game/stats/38411/page-game/,1424,16,8,24,7,2,9,2,1,3,1,0,1,0.0,0.0,0.0,Invictus Gaming
+LPL Spring 2022,Team WE vs Invictus Gaming,412,8,Team WE,Invictus Gaming,2022-03-10,/game/stats/38412/page-game/,2353,17,23,40,4,10,14,3,3,6,1,2,3,0.0,0.0,0.0,Invictus Gaming
+LPL Spring 2022,Team WE vs Invictus Gaming,413,8,Invictus Gaming,Team WE,2022-03-10,/game/stats/38413/page-game/,2048,8,15,23,3,8,11,1,3,4,0,2,2,0.0,0.0,0.0,Team WE
+LPL Spring 2022,Royal Never Give Up vs LGD Gaming,417,8,Royal Never Give Up,LGD Gaming,2022-03-09,/game/stats/38408/page-game/,1664,18,4,22,8,0,8,4,0,4,1,0,1,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,Royal Never Give Up vs LGD Gaming,418,8,LGD Gaming,Royal Never Give Up,2022-03-09,/game/stats/38409/page-game/,1525,5,22,27,1,11,12,0,4,4,0,1,1,0.0,0.0,0.0,Royal Never Give Up
+LPL Spring 2022,TT vs Ultra Prime,421,8,TT,Ultra Prime,2022-03-09,/game/stats/38405/page-game/,2186,6,18,24,4,10,14,0,4,4,1,1,2,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,TT vs Ultra Prime,422,8,TT,Ultra Prime,2022-03-09,/game/stats/38406/page-game/,2005,17,8,25,11,2,13,2,3,5,1,0,1,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,TT vs Ultra Prime,423,8,TT,Ultra Prime,2022-03-09,/game/stats/38407/page-game/,1757,8,14,22,2,6,8,1,4,5,0,1,1,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,Victory Five vs Bilibili Gaming,427,8,Victory Five,Bilibili Gaming,2022-03-08,/game/stats/38402/page-game/,2351,2,14,16,5,9,14,3,3,6,0,2,2,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,Victory Five vs Bilibili Gaming,428,8,Bilibili Gaming,Victory Five,2022-03-08,/game/stats/38403/page-game/,1443,6,13,19,0,8,8,0,4,4,0,1,1,0.0,0.0,0.0,Victory Five
+LPL Spring 2022,Victory Five vs Bilibili Gaming,429,8,Victory Five,Bilibili Gaming,2022-03-08,/game/stats/38404/page-game/,2248,23,23,46,11,4,15,0,4,4,2,0,2,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,LNG Esports vs JD Gaming,433,8,LNG Esports,JD Gaming,2022-03-08,/game/stats/38399/page-game/,1858,7,16,23,4,10,14,0,4,4,0,1,1,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,LNG Esports vs JD Gaming,434,8,LNG Esports,JD Gaming,2022-03-08,/game/stats/38400/page-game/,1623,9,16,25,3,10,13,1,3,4,0,1,1,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,Anyone s Legend vs Edward Gaming,437,8,Anyone s Legend,Edward Gaming,2022-03-07,/game/stats/38396/page-game/,1786,15,2,17,9,3,12,4,0,4,1,0,1,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,Anyone s Legend vs Edward Gaming,438,8,Edward Gaming,Anyone s Legend,2022-03-07,/game/stats/38397/page-game/,1533,14,3,17,10,2,12,4,0,4,1,0,1,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Anyone s Legend vs Edward Gaming,439,8,Anyone s Legend,Edward Gaming,2022-03-07,/game/stats/38398/page-game/,2307,24,17,41,11,4,15,3,3,6,3,0,3,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,Funplus Phoenix vs Team WE,443,8,Funplus Phoenix,Team WE,2022-03-07,/game/stats/38393/page-game/,1659,9,18,27,3,9,12,2,2,4,0,1,1,0.0,0.0,0.0,Team WE
+LPL Spring 2022,Funplus Phoenix vs Team WE,444,8,Funplus Phoenix,Team WE,2022-03-07,/game/stats/38394/page-game/,1841,9,11,20,8,4,12,3,1,4,1,0,1,0.0,0.0,0.0,Team WE
+LPL Spring 2022,Funplus Phoenix vs Team WE,445,8,Funplus Phoenix,Team WE,2022-03-07,/game/stats/38395/page-game/,1925,18,8,26,10,2,12,4,1,5,2,0,2,0.0,0.0,0.0,Team WE
+LPL Spring 2022,Top Esports vs LNG Esports,449,7,Top Esports,LNG Esports,2022-03-06,/game/stats/38111/page-game/,2007,2,11,13,3,7,10,2,3,5,0,0,0,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,Top Esports vs LNG Esports,450,7,Top Esports,LNG Esports,2022-03-06,/game/stats/38112/page-game/,2222,21,13,34,9,4,13,4,0,4,1,1,2,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,Top Esports vs LNG Esports,451,7,Top Esports,LNG Esports,2022-03-06,/game/stats/38113/page-game/,1711,17,7,24,10,2,12,3,1,4,1,0,1,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,OMG vs Rare Atom,455,7,OMG,Rare Atom,2022-03-06,/game/stats/38108/page-game/,1521,3,11,14,0,9,9,1,3,4,0,1,1,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,OMG vs Rare Atom,456,7,OMG,Rare Atom,2022-03-06,/game/stats/38109/page-game/,1754,14,7,21,8,4,12,3,2,5,1,0,1,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,OMG vs Rare Atom,457,7,OMG,Rare Atom,2022-03-06,/game/stats/38110/page-game/,1474,17,2,19,10,0,10,4,0,4,1,0,1,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,Victory Five vs Ultra Prime,461,7,Victory Five,Ultra Prime,2022-03-06,/game/stats/38105/page-game/,1751,12,4,16,8,1,9,3,2,5,0,0,0,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,Victory Five vs Ultra Prime,462,7,Ultra Prime,Victory Five,2022-03-06,/game/stats/38106/page-game/,1548,7,22,29,2,11,13,0,4,4,0,1,1,0.0,0.0,0.0,Victory Five
+LPL Spring 2022,Royal Never Give Up vs Edward Gaming,465,7,Royal Never Give Up,Edward Gaming,2022-03-05,/game/stats/38102/page-game/,1972,16,6,22,11,2,13,3,2,5,1,0,1,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,Royal Never Give Up vs Edward Gaming,466,7,Royal Never Give Up,Edward Gaming,2022-03-05,/game/stats/38103/page-game/,1713,7,20,27,3,8,11,3,1,4,1,0,1,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,Royal Never Give Up vs Edward Gaming,467,7,Royal Never Give Up,Edward Gaming,2022-03-05,/game/stats/38104/page-game/,1773,28,8,36,9,1,10,4,1,5,1,0,1,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,Invictus Gaming vs Anyone s Legend,471,7,Invictus Gaming,Anyone s Legend,2022-03-05,/game/stats/38099/page-game/,2321,16,27,43,3,9,12,1,4,5,0,3,3,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Invictus Gaming vs Anyone s Legend,472,7,Invictus Gaming,Anyone s Legend,2022-03-05,/game/stats/38100/page-game/,2650,8,18,26,10,7,17,4,2,6,1,1,2,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Weibo Gaming vs LGD Gaming,475,7,Weibo Gaming,LGD Gaming,2022-03-05,/game/stats/38096/page-game/,1619,17,6,23,8,1,9,3,1,4,0,1,1,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,Weibo Gaming vs LGD Gaming,476,7,Weibo Gaming,LGD Gaming,2022-03-05,/game/stats/38097/page-game/,2375,15,20,35,9,10,19,3,3,6,0,3,3,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,Weibo Gaming vs LGD Gaming,477,7,Weibo Gaming,LGD Gaming,2022-03-05,/game/stats/38098/page-game/,1753,12,7,19,8,4,12,3,2,5,1,0,1,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,Funplus Phoenix vs Bilibili Gaming,481,7,Funplus Phoenix,Bilibili Gaming,2022-03-04,/game/stats/38093/page-game/,2310,7,16,23,4,9,13,1,4,5,0,2,2,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,Funplus Phoenix vs Bilibili Gaming,482,7,Bilibili Gaming,Funplus Phoenix,2022-03-04,/game/stats/38094/page-game/,1699,8,25,33,3,10,13,1,3,4,0,1,1,0.0,0.0,0.0,Funplus Phoenix
+LPL Spring 2022,Funplus Phoenix vs Bilibili Gaming,483,7,Funplus Phoenix,Bilibili Gaming,2022-03-04,/game/stats/38095/page-game/,1881,16,6,22,7,4,11,4,1,5,1,0,1,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,TT vs LNG Esports,487,7,TT,LNG Esports,2022-03-04,/game/stats/38090/page-game/,2709,12,24,36,3,10,13,3,4,7,0,3,3,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,TT vs LNG Esports,488,7,TT,LNG Esports,2022-03-04,/game/stats/38091/page-game/,1803,12,5,17,7,3,10,4,1,5,1,0,1,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,TT vs LNG Esports,489,7,TT,LNG Esports,2022-03-04,/game/stats/38092/page-game/,1770,11,17,28,1,9,10,3,2,5,1,0,1,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,Victory Five vs JD Gaming,493,7,Victory Five,JD Gaming,2022-03-04,/game/stats/38087/page-game/,2859,25,22,47,10,9,19,3,4,7,2,1,3,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,Victory Five vs JD Gaming,494,7,Victory Five,JD Gaming,2022-03-04,/game/stats/38088/page-game/,2160,14,17,31,6,8,14,2,3,5,0,2,2,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,Royal Never Give Up vs Weibo Gaming,497,7,Royal Never Give Up,Weibo Gaming,2022-03-02,/game/stats/38084/page-game/,2081,25,12,37,11,3,14,4,0,4,2,0,2,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,Royal Never Give Up vs Weibo Gaming,498,7,Royal Never Give Up,Weibo Gaming,2022-03-02,/game/stats/38085/page-game/,1652,28,4,32,9,2,11,2,2,4,1,0,1,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,LGD Gaming vs Edward Gaming,501,7,LGD Gaming,Edward Gaming,2022-03-02,/game/stats/38081/page-game/,1460,7,23,30,1,8,9,2,1,3,0,1,1,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,LGD Gaming vs Edward Gaming,502,7,LGD Gaming,Edward Gaming,2022-03-02,/game/stats/38082/page-game/,2324,16,25,41,3,10,13,3,2,5,0,1,1,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,Bilibili Gaming vs Top Esports,505,7,Bilibili Gaming,Top Esports,2022-03-01,/game/stats/38078/page-game/,2519,15,10,25,9,8,17,2,4,6,2,1,3,0.0,0.0,0.0,Top Esports
+LPL Spring 2022,Bilibili Gaming vs Top Esports,506,7,Top Esports,Bilibili Gaming,2022-03-01,/game/stats/38079/page-game/,1715,17,11,28,8,3,11,4,0,4,1,0,1,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,Bilibili Gaming vs Top Esports,507,7,Top Esports,Bilibili Gaming,2022-03-01,/game/stats/38080/page-game/,1736,21,15,36,7,5,12,4,0,4,0,0,0,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,Ultra Prime vs JD Gaming,511,7,Ultra Prime,JD Gaming,2022-03-01,/game/stats/38075/page-game/,1774,9,19,28,3,11,14,0,4,4,0,1,1,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,Ultra Prime vs JD Gaming,512,7,Ultra Prime,JD Gaming,2022-03-01,/game/stats/38076/page-game/,2253,18,26,44,3,9,12,1,4,5,0,1,1,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,Invictus Gaming vs LGD Gaming,515,7,Invictus Gaming,LGD Gaming,2022-02-28,/game/stats/38072/page-game/,1509,21,7,28,9,2,11,4,0,4,1,0,1,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,Invictus Gaming vs LGD Gaming,516,7,Invictus Gaming,LGD Gaming,2022-02-28,/game/stats/38073/page-game/,1957,8,18,26,4,7,11,0,4,4,0,1,1,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,Invictus Gaming vs LGD Gaming,517,7,Invictus Gaming,LGD Gaming,2022-02-28,/game/stats/38074/page-game/,1629,12,19,31,2,9,11,0,3,3,0,0,0,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,Team WE vs Rare Atom,521,7,Team WE,Rare Atom,2022-02-28,/game/stats/38069/page-game/,1616,4,18,22,2,9,11,0,4,4,0,1,1,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,Team WE vs Rare Atom,522,7,Team WE,Rare Atom,2022-02-28,/game/stats/38070/page-game/,1659,6,14,20,5,9,14,3,1,4,0,1,1,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,LNG Esports vs Victory Five,525,6,LNG Esports,Victory Five,2022-02-27,/game/stats/37750/page-game/,2510,11,19,30,4,11,15,2,4,6,0,3,3,0.0,0.0,0.0,Victory Five
+LPL Spring 2022,LNG Esports vs Victory Five,526,6,LNG Esports,Victory Five,2022-02-27,/game/stats/37751/page-game/,1621,11,20,31,3,8,11,1,3,4,0,1,1,0.0,0.0,0.0,Victory Five
+LPL Spring 2022,JD Gaming vs Bilibili Gaming,529,6,JD Gaming,Bilibili Gaming,2022-02-27,/game/stats/37747/page-game/,1763,7,17,24,1,11,12,1,3,4,0,1,1,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,JD Gaming vs Bilibili Gaming,530,6,Bilibili Gaming,JD Gaming,2022-02-27,/game/stats/37748/page-game/,1876,9,22,31,3,10,13,2,3,5,0,2,2,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,JD Gaming vs Bilibili Gaming,531,6,JD Gaming,Bilibili Gaming,2022-02-27,/game/stats/37749/page-game/,1705,4,19,23,1,11,12,0,4,4,0,1,1,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,Funplus Phoenix vs TT,535,6,Funplus Phoenix,TT,2022-02-27,/game/stats/37744/page-game/,1700,5,26,31,1,10,11,0,4,4,0,1,1,0.0,0.0,0.0,TT
+LPL Spring 2022,Funplus Phoenix vs TT,536,6,TT,Funplus Phoenix,2022-02-27,/game/stats/37745/page-game/,1528,4,11,15,2,7,9,0,3,3,0,1,1,0.0,0.0,0.0,Funplus Phoenix
+LPL Spring 2022,Funplus Phoenix vs TT,537,6,Funplus Phoenix,TT,2022-02-27,/game/stats/37746/page-game/,1687,3,15,18,2,7,9,2,2,4,0,1,1,0.0,0.0,0.0,TT
+LPL Spring 2022,Top Esports vs Edward Gaming,541,6,Top Esports,Edward Gaming,2022-02-26,/game/stats/37741/page-game/,1488,12,4,16,9,2,11,2,1,3,1,0,1,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,Top Esports vs Edward Gaming,542,6,Edward Gaming,Top Esports,2022-02-26,/game/stats/37742/page-game/,1373,25,4,29,8,2,10,2,0,2,1,0,1,0.0,0.0,0.0,Top Esports
+LPL Spring 2022,Top Esports vs Edward Gaming,543,6,Top Esports,Edward Gaming,2022-02-26,/game/stats/37743/page-game/,1676,11,12,23,7,6,13,0,4,4,1,0,1,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,OMG vs Weibo Gaming,547,6,OMG,Weibo Gaming,2022-02-26,/game/stats/37738/page-game/,1924,3,16,19,5,11,16,1,4,5,0,1,1,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,OMG vs Weibo Gaming,548,6,Weibo Gaming,OMG,2022-02-26,/game/stats/37739/page-game/,1857,6,15,21,1,10,11,0,4,4,0,2,2,0.0,0.0,0.0,OMG
+LPL Spring 2022,OMG vs Weibo Gaming,549,6,OMG,Weibo Gaming,2022-02-26,/game/stats/37740/page-game/,2114,5,15,20,2,9,11,3,2,5,1,1,2,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,Team WE vs Ultra Prime,553,6,Team WE,Ultra Prime,2022-02-26,/game/stats/37735/page-game/,1628,31,8,39,10,1,11,4,0,4,1,0,1,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,Team WE vs Ultra Prime,554,6,Ultra Prime,Team WE,2022-02-26,/game/stats/37736/page-game/,1918,14,5,19,8,3,11,3,2,5,1,0,1,0.0,0.0,0.0,Team WE
+LPL Spring 2022,Team WE vs Ultra Prime,555,6,Team WE,Ultra Prime,2022-02-26,/game/stats/37737/page-game/,2160,14,18,32,3,10,13,3,2,5,0,2,2,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,JD Gaming vs TT,559,8,JD Gaming,TT,2022-03-11,/game/stats/38417/page-game/,1644,14,6,20,11,1,12,2,2,4,1,0,1,0.0,0.0,0.0,TT
+LPL Spring 2022,JD Gaming vs TT,560,8,JD Gaming,TT,2022-03-11,/game/stats/38418/page-game/,1654,14,11,25,8,2,10,4,0,4,0,0,0,0.0,0.0,0.0,TT
+LPL Spring 2022,Weibo Gaming vs Top Esports,563,8,Weibo Gaming,Top Esports,2022-03-11,/game/stats/38423/page-game/,1611,3,15,18,3,10,13,1,3,4,0,1,1,0.0,0.0,0.0,Top Esports
+LPL Spring 2022,Weibo Gaming vs Top Esports,564,8,Top Esports,Weibo Gaming,2022-03-11,/game/stats/38424/page-game/,1891,20,8,28,10,1,11,4,0,4,1,0,1,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,Rare Atom vs Ultra Prime,567,8,Rare Atom,Ultra Prime,2022-03-11,/game/stats/38420/page-game/,1962,10,12,22,10,3,13,0,4,4,1,0,1,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,Rare Atom vs Ultra Prime,568,8,Rare Atom,Ultra Prime,2022-03-11,/game/stats/38421/page-game/,2584,19,17,36,11,8,19,4,2,6,1,1,2,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,Bilibili Gaming vs Edward Gaming,571,8,Bilibili Gaming,Edward Gaming,2022-03-12,/game/stats/38432/page-game/,2018,12,4,16,7,7,14,4,1,5,0,0,0,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,Bilibili Gaming vs Edward Gaming,572,8,Edward Gaming,Bilibili Gaming,2022-03-12,/game/stats/38433/page-game/,2022,20,16,36,8,4,12,4,1,5,1,0,1,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,Bilibili Gaming vs Edward Gaming,573,8,Bilibili Gaming,Edward Gaming,2022-03-12,/game/stats/38434/page-game/,2230,7,17,24,3,10,13,2,4,6,0,2,2,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,LGD Gaming vs LNG Esports,577,8,LGD Gaming,LNG Esports,2022-03-12,/game/stats/38429/page-game/,1828,25,5,30,9,1,10,4,0,4,1,0,1,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,LGD Gaming vs LNG Esports,578,8,LNG Esports,LGD Gaming,2022-03-12,/game/stats/38430/page-game/,1527,13,4,17,10,1,11,4,0,4,1,0,1,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,LGD Gaming vs LNG Esports,579,8,LGD Gaming,LNG Esports,2022-03-12,/game/stats/38431/page-game/,1906,4,20,24,4,9,13,1,4,5,0,1,1,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,Ultra Prime vs Royal Never Give Up,583,9,Ultra Prime,Royal Never Give Up,2022-03-19,/game/stats/38842/page-game/,1872,12,25,37,3,8,11,0,4,4,0,1,1,0.0,0.0,0.0,Royal Never Give Up
+LPL Spring 2022,Ultra Prime vs Royal Never Give Up,584,9,Ultra Prime,Royal Never Give Up,2022-03-19,/game/stats/38843/page-game/,1673,10,23,33,1,11,12,0,4,4,0,1,1,0.0,0.0,0.0,Royal Never Give Up
+LPL Spring 2022,Invictus Gaming vs Weibo Gaming,587,9,Invictus Gaming,Weibo Gaming,2022-03-18,/game/stats/38839/page-game/,1923,5,11,16,3,8,11,3,2,5,0,1,1,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,Invictus Gaming vs Weibo Gaming,588,9,Invictus Gaming,Weibo Gaming,2022-03-18,/game/stats/38840/page-game/,1768,6,16,22,3,8,11,3,1,4,0,0,0,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,Top Esports vs LGD Gaming,591,9,Top Esports,LGD Gaming,2022-03-18,/game/stats/38836/page-game/,1563,16,3,19,10,1,11,3,1,4,1,0,1,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,Top Esports vs LGD Gaming,592,9,LGD Gaming,Top Esports,2022-03-18,/game/stats/38837/page-game/,1733,8,25,33,2,11,13,0,4,4,0,1,1,0.0,0.0,0.0,Top Esports
+LPL Spring 2022,Team WE vs TT,595,9,Team WE,TT,2022-03-17,/game/stats/38833/page-game/,1476,5,3,8,8,4,12,0,3,3,1,0,1,0.0,0.0,0.0,TT
+LPL Spring 2022,Team WE vs TT,596,9,TT,Team WE,2022-03-17,/game/stats/38834/page-game/,1668,23,6,29,10,1,11,3,1,4,1,0,1,0.0,0.0,0.0,Team WE
+LPL Spring 2022,Team WE vs TT,597,9,Team WE,TT,2022-03-17,/game/stats/38835/page-game/,1487,3,14,17,1,10,11,1,3,4,0,1,1,0.0,0.0,0.0,TT
+LPL Spring 2022,JD Gaming vs Rare Atom,601,9,JD Gaming,Rare Atom,2022-03-17,/game/stats/38830/page-game/,1690,15,6,21,10,2,12,4,1,5,1,0,1,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,JD Gaming vs Rare Atom,602,9,JD Gaming,Rare Atom,2022-03-17,/game/stats/38831/page-game/,1867,21,7,28,10,1,11,2,3,5,0,0,0,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,Top Esports vs Anyone s Legend,605,9,Top Esports,Anyone s Legend,2022-03-16,/game/stats/38827/page-game/,1764,19,5,24,9,3,12,3,0,3,0,1,1,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Top Esports vs Anyone s Legend,606,9,Anyone s Legend,Top Esports,2022-03-16,/game/stats/38828/page-game/,1390,2,21,23,1,9,10,0,3,3,0,1,1,0.0,0.0,0.0,Top Esports
+LPL Spring 2022,Edward Gaming vs LNG Esports,609,9,Edward Gaming,LNG Esports,2022-03-15,/game/stats/38824/page-game/,2237,12,15,27,6,7,13,3,2,5,0,2,2,0.0,0.0,0.0,LNG Esports
+LPL Spring 2022,Edward Gaming vs LNG Esports,610,9,LNG Esports,Edward Gaming,2022-03-15,/game/stats/38825/page-game/,1718,10,5,15,7,2,9,4,1,5,0,0,0,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,Funplus Phoenix vs Invictus Gaming,613,9,Funplus Phoenix,Invictus Gaming,2022-03-15,/game/stats/38821/page-game/,1825,17,14,31,10,6,16,3,2,5,1,0,1,0.0,0.0,0.0,Invictus Gaming
+LPL Spring 2022,Funplus Phoenix vs Invictus Gaming,614,9,Invictus Gaming,Funplus Phoenix,2022-03-15,/game/stats/38822/page-game/,1438,1,16,17,3,8,11,1,3,4,0,1,1,0.0,0.0,0.0,Funplus Phoenix
+LPL Spring 2022,Bilibili Gaming vs Ultra Prime,617,9,Bilibili Gaming,Ultra Prime,2022-03-14,/game/stats/38818/page-game/,2239,17,19,36,4,6,10,4,0,4,0,1,1,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,Bilibili Gaming vs Ultra Prime,618,9,Bilibili Gaming,Ultra Prime,2022-03-14,/game/stats/38819/page-game/,2019,16,15,31,8,5,13,1,3,4,0,0,0,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,Bilibili Gaming vs Ultra Prime,619,9,Bilibili Gaming,Ultra Prime,2022-03-14,/game/stats/38820/page-game/,2261,17,17,34,7,8,15,2,3,5,1,1,2,0.0,0.0,0.0,Ultra Prime
+LPL Spring 2022,TT vs Victory Five,623,9,TT,Victory Five,2022-03-14,/game/stats/38815/page-game/,1614,5,18,23,3,9,12,2,2,4,0,1,1,0.0,0.0,0.0,Victory Five
+LPL Spring 2022,TT vs Victory Five,624,9,Victory Five,TT,2022-03-14,/game/stats/38816/page-game/,1821,20,10,30,11,3,14,2,2,4,1,0,1,0.0,0.0,0.0,TT
+LPL Spring 2022,Royal Never Give Up vs Team WE,627,8,Royal Never Give Up,Team WE,2022-03-13,/game/stats/38441/page-game/,1684,4,16,20,5,10,15,1,2,3,0,2,2,0.0,0.0,0.0,Team WE
+LPL Spring 2022,Royal Never Give Up vs Team WE,628,8,Royal Never Give Up,Team WE,2022-03-13,/game/stats/38442/page-game/,1972,4,19,23,3,8,11,3,2,5,0,2,2,0.0,0.0,0.0,Team WE
+LPL Spring 2022,Invictus Gaming vs Top Esports,631,8,Invictus Gaming,Top Esports,2022-03-13,/game/stats/38438/page-game/,1714,24,7,31,9,2,11,4,0,4,2,0,2,0.0,0.0,0.0,Top Esports
+LPL Spring 2022,Invictus Gaming vs Top Esports,632,8,Top Esports,Invictus Gaming,2022-03-13,/game/stats/38439/page-game/,1643,21,6,27,9,3,12,2,2,4,1,0,1,0.0,0.0,0.0,Invictus Gaming
+LPL Spring 2022,Invictus Gaming vs Top Esports,633,8,Invictus Gaming,Top Esports,2022-03-13,/game/stats/38440/page-game/,1497,12,2,14,8,2,10,3,1,4,1,0,1,0.0,0.0,0.0,Top Esports
+LPL Spring 2022,Weibo Gaming vs Rare Atom,637,8,Weibo Gaming,Rare Atom,2022-03-13,/game/stats/38435/page-game/,2185,12,18,30,4,9,13,3,3,6,1,1,2,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,Weibo Gaming vs Rare Atom,638,8,Weibo Gaming,Rare Atom,2022-03-13,/game/stats/38436/page-game/,1702,2,13,15,1,10,11,0,4,4,0,1,1,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,Weibo Gaming vs JD Gaming,641,9,Weibo Gaming,JD Gaming,2022-03-20,/game/stats/38857/page-game/,1759,9,10,19,3,9,12,1,4,5,0,1,1,0.0,0.0,0.0,JD Gaming
+LPL Spring 2022,Weibo Gaming vs JD Gaming,642,9,JD Gaming,Weibo Gaming,2022-03-20,/game/stats/38858/page-game/,1904,15,3,18,10,1,11,4,1,5,1,0,1,0.0,0.0,0.0,Weibo Gaming
+LPL Spring 2022,Team WE vs Anyone s Legend,645,9,Team WE,Anyone s Legend,2022-03-20,/game/stats/38854/page-game/,2109,13,10,23,9,4,13,2,3,5,2,0,2,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Team WE vs Anyone s Legend,646,9,Team WE,Anyone s Legend,2022-03-20,/game/stats/38855/page-game/,2002,22,7,29,9,2,11,3,1,4,1,0,1,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Bilibili Gaming vs LGD Gaming,649,9,Bilibili Gaming,LGD Gaming,2022-03-20,/game/stats/38851/page-game/,1850,11,5,16,9,3,12,3,1,4,1,0,1,0.0,0.0,0.0,LGD Gaming
+LPL Spring 2022,Bilibili Gaming vs LGD Gaming,650,9,LGD Gaming,Bilibili Gaming,2022-03-20,/game/stats/38852/page-game/,1951,9,21,30,1,11,12,1,4,5,1,0,1,0.0,0.0,0.0,Bilibili Gaming
+LPL Spring 2022,Victory Five vs Funplus Phoenix,653,9,Victory Five,Funplus Phoenix,2022-03-19,/game/stats/38848/page-game/,2089,12,14,26,8,8,16,3,3,6,0,2,2,0.0,0.0,0.0,Funplus Phoenix
+LPL Spring 2022,Victory Five vs Funplus Phoenix,654,9,Funplus Phoenix,Victory Five,2022-03-19,/game/stats/38849/page-game/,1459,9,24,33,3,10,13,1,3,4,0,1,1,0.0,0.0,0.0,Victory Five
+LPL Spring 2022,Edward Gaming vs Rare Atom,657,9,Edward Gaming,Rare Atom,2022-03-19,/game/stats/38845/page-game/,1751,16,3,19,11,1,12,3,1,4,1,0,1,0.0,0.0,0.0,Rare Atom
+LPL Spring 2022,Edward Gaming vs Rare Atom,658,9,Rare Atom,Edward Gaming,2022-03-19,/game/stats/38846/page-game/,2187,5,12,17,2,10,12,2,4,6,0,1,1,0.0,0.0,0.0,Edward Gaming
+LPL Spring 2022,Royal Never Give Up vs OMG,661,9,Royal Never Give Up,OMG,2022-03-25,/game/stats/38863/page-game/,1447,26,7,33,8,0,8,2,1,3,1,0,1,0.0,0.0,0.0,OMG
+LPL Spring 2022,Royal Never Give Up vs OMG,662,9,Royal Never Give Up,OMG,2022-03-25,/game/stats/38864/page-game/,1773,5,17,22,2,10,12,0,4,4,1,0,1,0.0,0.0,0.0,OMG
+LPL Spring 2022,Royal Never Give Up vs OMG,663,9,Royal Never Give Up,OMG,2022-03-25,/game/stats/38865/page-game/,1680,19,5,24,8,1,9,3,2,5,0,0,0,0.0,0.0,0.0,OMG
+LPL Spring 2022,LNG Esports vs OMG,667,9,LNG Esports,OMG,2022-03-24,/game/stats/38860/page-game/,1504,18,3,21,9,1,10,2,2,4,0,0,0,0.0,0.0,0.0,OMG
+LPL Spring 2022,LNG Esports vs OMG,668,9,LNG Esports,OMG,2022-03-24,/game/stats/38861/page-game/,2075,16,20,36,7,7,14,1,4,5,2,0,2,0.0,0.0,0.0,OMG
+LPL Spring 2022,LNG Esports vs OMG,669,9,LNG Esports,OMG,2022-03-24,/game/stats/38862/page-game/,2233,27,10,37,9,5,14,4,1,5,1,2,3,0.0,0.0,0.0,OMG
+LPL Spring 2022,Victory Five vs Anyone s Legend,673,8,Victory Five,Anyone s Legend,2022-03-23,/game/stats/38426/page-game/,1639,20,7,27,10,2,12,3,1,4,1,0,1,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,Victory Five vs Anyone s Legend,674,8,Victory Five,Anyone s Legend,2022-03-23,/game/stats/38427/page-game/,2587,34,27,61,9,8,17,4,2,6,2,1,3,0.0,0.0,0.0,Anyone s Legend
+LPL Spring 2022,OMG vs Funplus Phoenix,677,8,OMG,Funplus Phoenix,2022-03-23,/game/stats/38414/page-game/,1687,13,26,39,1,8,9,1,3,4,0,1,1,0.0,0.0,0.0,Funplus Phoenix
+LPL Spring 2022,OMG vs Funplus Phoenix,678,8,Funplus Phoenix,OMG,2022-03-23,/game/stats/38415/page-game/,2094,10,24,34,3,8,11,0,4,4,1,1,2,0.0,0.0,0.0,OMG
+LPL Spring 2022,OMG vs Funplus Phoenix,679,8,Funplus Phoenix,OMG,2022-03-23,/game/stats/38416/page-game/,1897,20,6,26,10,3,13,4,0,4,1,1,2,0.0,0.0,0.0,OMG

@@ -63,7 +63,8 @@ public class GUI extends JFrame{
 	 * for testing reasons
 	 */
 	public void test() {
-		
+		M.makeDataFromText("newTeams.txt");
+		printLine(M.Tournaments.size());
 	}
 
 	/*
