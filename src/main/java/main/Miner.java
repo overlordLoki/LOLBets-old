@@ -55,6 +55,10 @@ public class Miner {
 			String stringtourmament = 
 					regionAndTourmament[0]+" "+regionAndTourmament[1]+" "+regionAndTourmament[2];
 			Tournament tourmament = Tournaments.get(stringtourmament);
+			if(tourmament == null) {
+				tourmament = new Tournament(stringtourmament);
+				Tournaments.put(stringtourmament, tourmament);
+			}
 
 			//make a list of links for each game in the match
 			Elements links = doc.getElementsByClass("collapse navbar-collapse").last().

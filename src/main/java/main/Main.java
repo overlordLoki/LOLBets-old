@@ -21,6 +21,9 @@ public class Main {
 		
 	}
 
+	//TODO: get 9 tournament working
+	//TODO: get gold fixed, get id working.
+
 	
 	/*
 	 * checks LPL, LEC , LCK and LCS for any new matchs and adds them.
